@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
-import { Home,Upload, History, Filter, Sun, Moon } from "lucide-react";
+import { Home,Upload, History, Filter, Sun, Moon,Check } from "lucide-react";
 
 const Navbar = () => {
   const [activeMenu, setActiveMenu] = useState("dashboard");
@@ -21,6 +21,8 @@ const Navbar = () => {
   const menuItems = [
     { icon: Home, label: "Dashboard", id: "dashboard", path: "/dashboard" },
     { icon: Upload, label: "Result", id: "results", path: "/results" },
+    { icon: History, label: "history", id: "history", path: "/history" },
+    { icon: Check, label: "proposed", id: "proposed", path: "/proposed" },
   ];
 
   const handleClick = (id, path) => {

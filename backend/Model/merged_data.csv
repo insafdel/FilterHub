@@ -1,0 +1,1530 @@
+﻿code_activity,name_activity,ar_name_activity
+72232.0,Typographiste,مصمم الخطوط
+72231.0,Typographe,خطاط
+72230.0,Scannériste,نساخ في الطباعة
+72229.0,Retoucheur-chromiste,منمق-منقح بالكروم
+72228.0,Retoucheur hélio,منمق روتوغرافي (هليو)
+72227.0,Responsable du service prépresse,مسؤول مصلحة ما قبل الطباعة
+72226.0,Responsable d'atelier de photogravure,مسؤول ورشة الحفر الضوئي
+72225.0,Photograveur,حافر ضوئي 
+72224.0,Photocompositeur,مصمم الصور
+72223.0,Opérateur scanner,مشغل الماسح الضوئي
+72222.0,Opérateur en Publication Assistée par Ordinateur-PAO,مشغل في النشر بمساعدة الكمبيوتر (PAO)
+72221.0,Operateur Computer To Plate-CTP,مشغل الكمبيوتر إلى اللوحة (CTP)
+72220.0,Monteur-copiste en industrie graphique,مركب وناسخ في صناعة الجرافيك
+72219.0,Monteur sur table,مركب الطباعة على الطاولة
+72218.0,Monteur scanneur,مركب الماسح في الطباعة
+72217.0,Monteur en imposition,مركب في الطباعة
+72216.0,Metteur en page texte/image,مرتب الصفحات نص/صورة في الطباعة
+72215.0,Metteur en page,مرتب الصفحات في الطباعة
+72214.0,Maquettiste d'exécution publicitaire,مصمم النماذج التنفيذي في الإعلان
+72213.0,Maquettiste d'exécution en imprimerie,مصمم النماذج التنفيذي في الطباعة
+72212.0,Maquettiste d'exécution édition,مصمم النماذج التنفيذي في النشر
+72211.0,Maquettiste d'exécution en Publication Assistée par Ordinateur-PAO,مصمم النماذج التنفيذي في النشر بمساعدة الكمبيوتر (PAO)
+72210.0,Maquettiste,مصمم النماذج
+72209.0,Infographiste concepteur,مصمم الانفوغراف المفهوم
+72208.0,Infographe,مصمم الانفوغراف
+72207.0,Graveur hélio,طباعة روتوغرافية 
+72206.0,Flasheur,مساعد المصمم الضوئي في الطباعة
+72205.0,Développeur (film plaque et autre),مطور طباعة (أفلام وصفائح وغيرها)
+72204.0,Copiste,ناسخ في الطباعة
+72203.0,Compositeur en Publication Assistée par Ordinateur-PAO,ملحن في النشر بمساعدة الكمبيوتر (PAO)
+72202.0,Claviste en Publication Assistée par Ordinateur-PAO,محرر نصوص في النشر بمساعدة الكمبيوتر (PAO)
+72201.0,Aide photograveur,مساعد محور الحفر الضوئي
+72109.0,Photographe scolaire,مصور مدرسي
+72108.0,Photographe itinérant,مصور متنقل
+72107.0,Photographe événementiel,مصور التظاهرات
+72106.0,Photographe de sport,مصور رياضي
+72105.0,Photographe de reportage,مصور ربورتاجات
+72104.0,Photographe,مصور
+72103.0,Opérateur de laboratoire photographique,مشغل مخبر الصور
+72102.0,Développeur de photographies,مطور الصور
+72101.0,Assistant photographe,مساعد مصور
+72003.0,Technicien opérateur de projection cinéma,تقني مشغل في العرض السينمائي
+72002.0,Projectionniste,عارض أفلام
+72001.0,Opérateur projectionniste cinéma,مشغل/ عارض الأفلام السينمائية
+71908.0,Web designer,مصمم الويب
+71907.0,Story boarder,كاتب قصص مصورة
+71906.0,Infographiste multimédia,مصمم الرسومات بالحاسوب (إنفوغرافيك) وسائل الإعلام
+71905.0,Illustrateur multimédia,رسام القصص المصورة
+71904.0,Designer en contenu multimédia,مصمم في محتوى وسائل الإعلام
+71903.0,Animateur 3D,أنفوغرافي ثلاثي الأبعاد
+71902.0,Animateur 2D,أنفوغرافي ثنائي الأبعاد
+71901.0,Affichiste illustrateur,رسام الرسومات التوضيحية في وسائل الإعلام
+71810.0,Superviseur monteur postproduction,مشرف مركب ما بعد الإنتاج
+71809.0,Opérateur PADPrêt A Diffuser,منسق المحتويات السمعية البصرية الجاهزة
+71808.0,Monteur vidéo,مركب الفيديو
+71807.0,Monteur sous titres,مركب حاشية العنونة
+71806.0,Monteur postproduction,مركب ما بعد الإنتاج
+71805.0,Monteur adjoint postproduction,مساعد مركب ما بعد الإنتاج
+71804.0,Mixeur,مكلف بالمزج
+71803.0,Etalonneur numérique,معير رقمي
+71802.0,Chef monteur postproduction,رئيس مركب ما بعد الإنتاج
+71801.0,Assistant monteur postproduction,مساعد مركب ما بعد الإنتاج
+71714.0,Travelling man,محرك الكاميرا على سكة
+71713.0,Technicien plateau,تقني البلاطو
+71712.0,Manutentionnaire de plateau,توضيب  البلاطو
+71711.0,Machiniste vidéo,منسق ديكور عام
+71710.0,Machiniste théatre,منسق ديكور مسرح
+71709.0,Machiniste télévision,منسق ديكور التلفزيون
+71708.0,Machiniste spectacle,منسق ديكور عروض 
+71707.0,Machiniste en décors,مشغل عرض ديكور
+71706.0,Machiniste en chef,مشغل عرض رئيسي
+71705.0,Machiniste constructeur de décors,مشغل ومصمم آلات الديكور
+71704.0,Machiniste cinema,مشغل آلات السينما
+71703.0,Cintrier machiniste,مشغل آلات دعائم الستائر
+71702.0,Chef machiniste spectacle,رئيس مشغل آلات العرض
+71701.0,Chef atelier machinerie,رئيس ورشة الآلات
+71615.0,Technicien du son,تقني الصوت
+71614.0,Technicien de sonorisation,تقني أجهزة تكبير الصوت
+71613.0,Sonorisateur,منتج الصوت
+71612.0,Preneur de son,مشغل ملتقط الصوت
+71611.0,Perchman,حامل عصا الميكروفون
+71610.0,Opérateur prise de son,مشغل التقاط الصوت
+71609.0,Opérateur de prise de son specialisé,مشغل مختص في التقاط الصوت
+71608.0,Ingénieur du son,مهندس الصوت
+71607.0,Chef opérateur du son,رئيس مشغل الصوت
+71606.0,Chef opérateur de prise de son,رئيس مشغل التقاط الصوت
+71605.0,Chef d'atelier son,رئيس ورشة الصوت
+71604.0,Bruiteur,مكلف بإحداث الصوت
+71603.0,Backliner,مكلف بأجهزة الصوت (باكلينر)
+71602.0,Assistant son,مساعد الصوت
+71601.0,Assistant de prise de son,مساعد ملتقط الصوت
+71526.0,Technicien vidéo,تقني فيديو
+71525.0,Technicien d'exploitation vidéo,تقني تشغيل فيديو
+71524.0,Technicien d'exploitation et de maintenance des équipements audiovisuels,تقني تشغيل وصيانة المعدات السمعية والبصرية
+71523.0,Technicien banc de titre,تقني طاولة تصوير عناوين متحركة
+71522.0,Technicien prompteur,تقني شاشة التلقين
+71521.0,Preneur d'image,ملتقط الصورة
+71520.0,Premier assistant opérateur,مشغل تجهيزات التصوير
+71519.0,Pointeur,مدقق الصورة
+71518.0,Photographe de plateau,مصور البلاطو
+71517.0,Opérateur vidéo,مشغل فيديو
+71516.0,Opérateur sur louma,مشغل كاميرا على ذراع
+71515.0,Opérateur steadycam,مشغل كاميرا بمثبت
+71514.0,Opérateur prise de vue specialisé,مشغل التقاط الصور مختص
+71513.0,Opérateur image,مشغل الصورة
+71512.0,Opérateur de plateau,مشغل البلاطو
+71511.0,Ingénieur de la vision,مهندس التصوير الرقمي
+71510.0,Directeur de la photo,مدير التصوير
+71509.0,Deuxième assistant operateur,مساعد ثاني مشغل
+71508.0,Chef opérateur vidéo,رئيس مشغل الفيديو
+71507.0,Chef opérateur d'image,رئيس مشغل الصورة
+71506.0,Chef opérateur de prise de vue,رئيس مشغل التقاط الصور
+71505.0,Cameraman,مصور بالكاميرا
+71504.0,Cadreur,مؤطر الصورة
+71503.0,Assistant opérateur sur louma,مساعد مشغل كاميرا على ذراع
+71502.0,Assistant cameraman,مساعد مصور بالكاميرا
+71501.0,Assistant cadreur,مساعد مؤطر الصورة
+71420.0,Technicien lumière,تقني الاضاءة
+71419.0,Pupitreur spectacle,مكلف بوحدة التحكم العرض
+71418.0,Pupitreur image,مكلف بوحدة التحكم في الصورة
+71417.0,Pupitre man,مشغل اللوحة التقنية
+71416.0,Poursuiteur,متقفي اضاءة
+71415.0,Opérateur poursuite,مشغل إضاءة متقفي
+71414.0,Opérateur lumière,مشغل اضاءة
+71413.0,Groupiste,مكلف بالمولدات الكهربائية للعروض
+71412.0,Electricien plateau,كهربائي المرحلة
+71411.0,Electricien jeu d'orgues,كهربائي البلاطو
+71410.0,Electricien éclairagiste spectacle,كهربائي وحدة تحكم الإضاءة
+71409.0,Electricien spectacle,كهربائي مكلف بإضاءة العرض
+71408.0,Eclairagiste,تقني اضاءة
+71407.0,Créateur lumière,مصمم الإضاءة
+71406.0,Concepteur lumière,منفذ الإضاءة
+71405.0,Chef section eclairagiste,رئيس قسم الإضاءة
+71404.0,Chef opérateur lumière,رئيس مشغل الإضاءة
+71403.0,Chef électricien spectacle,رئيس كهربائي العرض
+71402.0,Chef éclairagiste,رئيس الإضاءة
+71401.0,Assistant lumière,مساعد الإضاءة
+71309.0,Régisseur technique général,ريجيسور تقني عام
+71308.0,Régisseur technique,ريجيسور تقني
+71307.0,Régisseur lumière,ريجيسور الإضاءة
+71306.0,Régisseur général,ريجيسور عام
+71305.0,Régisseur de tournée,ريجيسور الجولات
+71304.0,Régisseur de son,ريجيسور الصوت
+71303.0,Régisseur de plateau,ريجيسور استوديو
+71302.0,Régisseur artistique,ريجيسور فني
+71301.0,Assistant de régie,ريجيسور 
+71216.0,Tapissier décorateur spectacle,مصمم ديكور السجاد للعروض
+71215.0,Scénographe spectacle,مصمم المشهد للعروض
+71214.0,Peintre en décor spectacle,رسام ديكور العرض
+71213.0,Menuisier en décor spectacle,نجار ديكور العرض
+71212.0,Ensemblier de décor spectacle,منسق الديكور للعروض
+71211.0,Décorateur spectacle,مصمم ديكور العرض
+71210.0,Décorateur spécialisé spectacle,مصمم ديكور مختص في العروض
+71209.0,Constructeur en décor,مُنشئ في الديكور
+71208.0,Chef magasin accessoires,رئيس مخزن الإكسسوارات
+71207.0,Chef décorateur spectacle,رئيس مصمم ديكور العرض
+71206.0,Chef décorateur spécialisé spectacle,رئيس مصمم ديكور مختص في العروض
+71205.0,Chef atelier de construction des décors,رئيس ورشة إنشاء الديكور
+71204.0,Chef atelier accessoires,رئيس ورشة الإكسسوارات
+71203.0,Assistant décorateur spectacle,مساعد مصمم ديكور العرض
+71202.0,Architecte en décors spectacle,مهندس ديكور مسرحي
+71201.0,Accessoiriste,مسؤول الاكسسوارات
+71112.0,Repasseur retoucheur de spectacle,كواء ومنمق ازياء العرض
+71111.0,Piqueuse de spectacle,عاملة تضريب أزياء العرض
+71110.0,Lingère de spectacle,مصمم ملابس داخلية الخاصة بالعرض
+71109.0,Habilleur,مكلف بالإلباس في العرض
+71108.0,Créateur de costumes,مصمم أزياء العرض
+71107.0,Couturier spectacle,خياط أزياء العرض
+71106.0,Costumier-habilleur,مصمم وملبس أزياء العرض
+71105.0,Costumier,مصمم أزياء 
+71104.0,Chef magasin des costumes,رئيس مخزن الأزياء
+71103.0,Chef costumier,رئيس ازياء العرض
+71102.0,Chef atelier couture spectacle,رئيس ورشة خياطة العرض
+71101.0,Chef atelier costumes,رئيس ورشة أزياء العرض
+71008.0,Maquilleur spectacle,واضع ماكياج في العروض
+71007.0,Coiffeur-posticheur spectacle,حلاق وواضع الشعر المزيف في العروض
+71006.0,Coiffeur-perruquier spectacle,حلاق وواضع الشعر المستعار في العروض
+71005.0,Coiffeur spectacle,حلاق العروض
+71004.0,Chef maquilleur spectacle,واضع ماكياج رئيسي في العروض
+71003.0,Chef coiffeur spectacle,حلاق رئيسي في العروض
+71002.0,Assistant maquilleur spectacle,مساعد واضع ماكياج العروض
+71001.0,Assistant coiffeur spectacle,مساعد حلاق العروض
+70910.0,Présentateur TV,مقدم تلفزيوني
+70909.0,Présentateur radio,مقدم إذاعي
+70908.0,Présentateur de spectacle,مقدم العروض
+70907.0,Chroniqueur TV / Radio,مقدم فقرات تلفزيونية / اذاعية
+70906.0,Chauffeur de salle,منشط الجمهور في قاعة
+70905.0,Annonceur speaker radio,مذيع معلق
+70904.0,Annonceur radio,مذيع راديو
+70903.0,Animateur TV,منشط تلفزيوني
+70902.0,Animateur radio,منشط اذاعي
+70901.0,Animateur de spectacle,منشط العروض
+70805.0,Mannequin publicité, عارض ازياء إعلانات
+70804.0,Mannequin podium, عارض ازياء منصة
+70803.0,Mannequin photo, عارض ازياء تصوير
+70802.0,Mannequin haute couture, عارض أزياء خياطة راقية
+70801.0,Mannequin,عارض ازياء
+70713.0,Personnage,متقمص شخصية
+70712.0,Pantomime,ممثل ايمائي
+70711.0,Mime,ممثل صامت
+70710.0,Marionnettiste,محرك دمى
+70709.0,Imitateur,مقلد
+70708.0,Humoriste,ممثل مازح 
+70707.0,Doublure,ممثل بديل
+70706.0,Conteur,حكواتي
+70705.0,Comique,ممثل هزلي
+70704.0,Comédien,ممثل كوميدي
+70703.0,Clown,مهرج
+70702.0,Acteur principal,ممثل رئيسي
+70701.0,Acteur,ممثل
+70646.0,Xylophoniste,عازف إكسيليفوني
+70645.0,Violoniste,عازف الزيلوفون
+70644.0,Violoncelliste,عازف الكمان
+70643.0,Tubiste / Contre tubiste,عازف الطوبا / عازف الطوبا الكبير
+70642.0,Trompettiste,عازف البوق
+70641.0,Tromboniste,عازف الترومبون
+70640.0,Timbalier,عازف التمبال
+70639.0,Saxophoniste,عازف الساكسفون
+70638.0,Régisseur d'orchestre,ريجيسير الأوركسترا
+70637.0,Régisseur chœurs,ريجيسير الجوق
+70636.0,Pianiste,عازف البيانو
+70635.0,Percussionniste,عازف الإيقاع
+70634.0,Organiste,عازف الأرغن
+70633.0,Orchestrateur,موزع الموسيقى
+70632.0,Musicien-accompagnateur,موسيقار منوعات
+70631.0,Musicien soliste,موسيقار مرافق
+70630.0,Musicien d'orchestre,موسيقار أوركسترا
+70629.0,Musicien de variétés,موسيقار منوعات
+70628.0,Musicien,موسيقار
+70627.0,Joueur d'instrument ethnique ou traditionnel,عازف على الآلة العرقية أو التقليدية
+70626.0,Joueur de synthétiseur,عازف الة المزج
+70625.0,Instrumentiste,عازف الاتي 
+70624.0,Hautboïste,عازف الة المزمار 
+70623.0,Harpiste,عازف الجينك
+70622.0,Harmoniciste,عازف الهارمونيكا
+70621.0,Guitariste,عازف الجيتار
+70620.0,Flûtiste,عازف الناي
+70619.0,Directeur des chœurs,مدير الجوق
+70618.0,Directeur artistique musique,مدير فني للموسيقى
+70617.0,Corniste,عازف الة القرن
+70616.0,Contrebassiste,عازف الكمان الكبير
+70615.0,Contre bassoniste,عازف الباصون الكبير
+70614.0,Claveciniste,عازف الة وترية
+70613.0,Clarinettiste,عازف الكلارينيت
+70612.0,Choriste,مغني جوق
+70611.0,Chef d'orchestre,قائد الأوركسترا
+70610.0,Chef de chœur,قائد الجوق
+70609.0,Chanteur,مغني
+70608.0,Batteur,عازف الإيقاع
+70607.0,Bassoniste,عازف الباصون
+70606.0,Bassiste,عازف الباص
+70605.0,Auteur-interprète,كاتب ومؤدي
+70604.0,Auteur-compositeur,كاتب وملحن
+70603.0,Arrangeur musical,ملحن الإيقاعات الموسيقية
+70602.0,Altiste,عازف كمان جهير/ التشيلو
+70601.0,Accordéoniste,عازف الأكورديون
+70508.0,Music manager,مدير أعمال موسيقي
+70507.0,Manager d'artiste,مدير أعمال الفنان
+70506.0,Directeur de casting,وكيل انتقاء الفنانين (كاستينغ)
+70505.0,Agent littéraire,وكيل أدبي
+70504.0,Agent de sportif,وكيل رياضي
+70503.0,Agent de mannequin,وكيل عارضة أزياء
+70502.0,Agent d'artiste,وكيل فنان
+70501.0,Agent artistique,وكيل فني
+70421.0,Script télévision,سكريبت تلفزيون
+70420.0,Script cinéma,سكريبت سينيمائي
+70419.0,Script,سكريبت 
+70418.0,Réalisateur télévision,مخرج تلفزيوني
+70417.0,Réalisateur radio,مخرج راديو
+70416.0,Réalisateur principal radio,مخرج راديو رئيسي
+70415.0,Réalisateur secondaire de radio,مخرج إذاعي ثانوي
+70414.0,Réalisateur d'émission de radio,مخرج برنامج إذاعي
+70413.0,Réalisateur de vidéoclip,مخرج فيديو كليب
+70412.0,Réalisateur de téléfilm,مخرج فيلم تلفزيوني
+70411.0,Réalisateur de plateau,مخرج البلاتو
+70410.0,Réalisateur de long métrage,مخرج أفلام طويلة
+70409.0,Réalisateur de documentaire,مخرج أفلام وثائقية
+70408.0,Réalisateur de court métrage,مخرج أفلام قصيرة
+70407.0,Réalisateur cinéma,مخرج سينمائي
+70406.0,Réalisateur audiovisuel,مخرج سمعي بصري
+70405.0,Réalisateur,مخرج
+70404.0,Premier assistant réalisateur,مساعد مخرج أول
+70403.0,Deuxième assistant réalisateur,مساعد مخرج ثاني
+70402.0,Assistant réalisateur radio,مساعد مخرج إذاعي
+70401.0,Assistant réalisateur,مساعد مخرج
+70304.0,Metteur en scène théâtre,مخرج عروض مسرحية
+70303.0,Metteur en scène,مخرج عروض
+70302.0,Co-metteur en scène,مخرج مشارك في العرض
+70301.0,Assistant metteur en scène,مساعد مخرج العروض
+70235.0,Technicien de production audiovisuelle,تقني الإنتاج السمعي البصري
+70234.0,Superviseur de production audiovisuelle,مشرف الإنتاج السمعي البصري
+70233.0,Secrétaire de production cinéma,سكرتير إنتاج سينمائي
+70232.0,Responsable de la programmation de spectacle,مسؤول برمجة العروض
+70231.0,Responsable de la programmation audiovisuelle,مسؤول البرمجة السمعية البصرية
+70230.0,Programmateur radio,مبرمج اذاعي
+70229.0,Programmateur de spectacle,مبرمج عروض
+70228.0,Producteur télévision,منتج تلفزيوني
+70227.0,Producteur radio,منتج إذاعي
+70226.0,Producteur exécutif,منتج منفذ 
+70225.0,Producteur délégué / assistant ,منتج مفوض/ مساعد 
+70224.0,Producteur de spectacle,منتج العروض
+70223.0,Producteur de musique,منتج الموسيقى
+70222.0,Producteur cinéma,منتج سينمائي
+70221.0,Gestionnaire de programmation audiovisuelle,مسير برمجة سمعية بصرية
+70220.0,Directeur technique et artistique audiovisuel,مدير تقني سمعي بصري
+70219.0,Chargé de la gestion musical,مكلف بالإدارة الموسيقية
+70218.0,Chargé de la gestion du théâtre,مكلف بإدارة مسرح
+70217.0,Chargé de production de spectacle,مكلف إنتاج العروض
+70216.0,Chargé de production cinématographique,مكلف الإنتاج السينمائي
+70215.0,Chargé de production audiovisuelle,مكلف بالإنتاج السمعي البصري
+70214.0,Chargé des spectacles de la musique,مكلف بالعروض الموسيقية
+70213.0,Chargé des spectacles de la danse,مكلف بالعروض الراقص
+70212.0,Chargé de ballet,مكلف بالباليه
+70211.0,Chargé d'antenne télévision,مكلف بالبث التلفزيوني
+70210.0,Chargé d'antenne radio,مكلف بالبث الإذاعي
+70209.0,Chargé artistique spectacle,مكلف فني بالعرض
+70208.0,Conseiller de programme audiovisuel,مستشار البرامج السمعية والبصرية
+70207.0,Assistant de production spectacle,مساعد إنتاج ا لعرض
+70206.0,Assistant de production audiovisuelle,مساعد إنتاج سمعي بصري
+70205.0,Chargé d'orchestre,مدير الأوركسترا
+70204.0,Chargé de gestion de théâtre,مكلف بإدارة المسرح
+70203.0,Chargé administrateur de production de spectacle,مكلف اداري بإنتاج ا لعروض
+70202.0,Chargé administrateur de production cinéma,مكلف اداري بالإنتاج السينمائي
+70201.0,Chargé administrateur de production audiovisuelle,مكلف اداري بالإنتاج السمعي البصري
+70121.0,Scénariste,كاتب سيناريو
+70120.0,Romancier,كاتب روائي
+70119.0,Poète,شاعر
+70118.0,Parolier,كاتب كلمات الأغاني
+70117.0,Ecrivain,كاتب
+70116.0,Directeur d'écriture de scénarios,مدير كتابة السيناريو
+70115.0,Compositeur,ملحن
+70114.0,Biographe littéraire,كاتب سيرة أدبية
+70113.0,Biographe,كاتب سير الشخصيات
+70112.0,Auteur-adaptateur,مؤلف مقتبس
+70111.0,Auteur littéraire,مؤلف أعمال أدبية
+70110.0,Auteur humoriste,مؤلف قصص هزلية
+70109.0,Auteur écrivain multimédia,مؤلف كاتب متعدد الوسائط الإعلامية
+70108.0,Auteur écrivain,كاتب أدبي
+70107.0,Auteur dramatique,مؤلف درامي
+70106.0,Auteur d'œuvre musicale avec ou sans paroles,مؤلف كلمات أو أعمال موسيقية
+70105.0,Auteur d'oeuvre littéraire radiodiffusée,مؤلف الأعمال الأدبية للبث الإذاعي
+70104.0,Auteur d'œuvre dramatique,مؤلف أعمال درامية
+70103.0,Auteur d'œuvre dramaticomusicale,مؤلف أعمال الدراما الموسيقية
+70102.0,Auteur Compositeur,مؤلف – ملحن
+70101.0,Adaptateur-traducteur,مقتبس-مترجم
+63707.0,Assistant service relations sociales,مساعد مصلحة العلاقات الاجتماعية
+63706.0,Assistant ressources humaines,مساعد في الموارد البشرية
+63705.0,Assistant du service gestion du personnel,مساعد في مصلحة تسيير المستخدمين
+63704.0,Assistant de gestion en ressources humaines,مساعد في تسيير الموارد البشرية
+63703.0,Assistant de gestion administrative du personnel,مساعد في التسيير الاداري للمستخدمين
+63702.0,Assistant carrières et paie,مساعد في تسيير المسارات المهنية والأجور
+63701.0,Assistant en gestion du personnel,مساعد في تسيير المستخدمين
+63610.0,Technicien supérieur électromécanicien,تقني سامي في الكهروميكانيكا
+63609.0,Technicien de maintenance électrique,تقني في الصيانة الكهربائية
+63608.0,Responsable maintenance dépannage en électricité industrielle,مسؤول الصيانة وتصليح الاعطال في الكهرباء الصناعية
+63607.0,Electrotechnicien de maintenance,كهروميكانيكي في الصيانة
+63606.0,Electromécanicien d'entretien d'installations électriques,كهروميكانيكي في صيانة المنشآت الكهربائية
+63605.0,Electromécanicien de signalisation basse et moyenne tension,كهروميكانيكي في إشارة الضغط المنخفض والمتوسط
+63604.0,Electromécanicien de maintenance d'installations électriques,كهروميكانيكي في صيانة التركيبات الكهربائية
+63603.0,Electricien de maintenance en équipements industriels,كهربائي في صيانة التجهيزات الصناعية
+63602.0,Electricien de maintenance de centrales hydrauliques,كهربائي في صيانة المحطات الهيدروليكية
+63601.0,Dépanneur électricien d'équipements industriels,مصلح كهربائي للتجهيزات الصناعية
+63510.0,Thermicien de maintenance,مختص صيانة في الطاقة الحرارية
+63509.0,Technicien thermicien de maintenance,مختص صيانة في الطاقة الحرارية
+63508.0,Technicien de maintenance en chauffage,تقني صيانة في التدفئة
+63507.0,Technicien d'exploitation de réseaux de chauffage,تقني استغلال في شبكات التدفئة
+63506.0,Technicien d'entretien et d'exploitation de chauffage,تقني صيانة واستغلال في التدفئة
+63505.0,Monteur-réparateur de chaudières,مركب-مصلح المسخنات الصناعية
+63504.0,Monteur de chaudières industrielles,مركب المسخنات الصناعية
+63503.0,Instrumentiste chauffagiste,مختص في التدفئة
+63502.0,Electromécanicien de chauffage,كهروميكانيكي في التدفئة
+63501.0,Agent technique de maintenance en chauffage,عوني تقني مكلف بالصيانة في مجال التدفئة
+63430.0,Technicien réseaux et télécommunication d'entreprise,تقني شبكات واتصالات المؤسسة
+63429.0,Technicien en télécommunications et réseaux d'entreprises,تقني في الاتصالات وشبكات المؤسسات
+63428.0,Technicien en télécommunications,تقني في الاتصالات
+63427.0,Technicien en radio communication courants faibles,تقني في راديو الاتصال-التيار المنخفض
+63426.0,Technicien en radio communication,تقني في راديو الاتصال
+63425.0,Technicien d'installation en télécommunications et radio,تقني تركيب في الاتصالات والراديو
+63424.0,Technicien d'installation en télécommunications courants faibles,تقني تركيب في الاتصالات –التيار المنخفض
+63423.0,Technicien d'installation en télécommunications,تقني تركيب في الاتصالات
+63422.0,Technicien d'installation en courants faibles,تقني تركيب في التيارات المنخفضة
+63421.0,Technicien d'installation de centrales téléphoniques,تقني تركيب مراكز هاتفية
+63420.0,Technicien d'essais et de contrôle en télécommunication,تقني التجارب والمراقبة في الاتصالات
+63419.0,Technicien de maintenance en téléphonie,تقني صيانة في مجال الهواتف
+63418.0,Technicien de maintenance en télécommunications,تقني صيانة في الاتصالات
+63417.0,Technicien de maintenance en systèmes d'alarme et de sécurité,تقني صيانة في أنظمة الإنذار والأمن
+63416.0,Technicien de maintenance en installations de vidéo – surveillance,تقني صيانة في تركيبات المراقبة بالفيديو
+63415.0,Technicien de maintenance des systèmes d'alarme et de télésurveillance,تقني صيانة أنظمة الإنذار والمراقبة عن بعد
+63414.0,Technicien de maintenance des systèmes d'alarme,تقني صيانة أنظمة الإنذار
+63413.0,Technicien de déploiement télécom,تقني تركيب في الاتصالات
+63412.0,Superviseur des équipements de transmission,مشرف على تجهيزات الإرسال
+63411.0,Monteur en paraboles et antennes,مركب في الصحون الهوائية والهوائيات
+63410.0,Monteur d'installations en télécommunications et courant faibles,مركب التركيبات في الاتصالات والتيارات المنخفضة
+63409.0,Installateur en télécommunication,مركب في الاتصالات
+63408.0,Electro Mécanicien de maintenance sécurité,كهروميكانيكي صيانة أجهزة الأمان
+63407.0,Electro Mécanicien de maintenance en téléphonie,كهروميكانيكي الصيانة في مجال الهاتف
+63406.0,Antenniste,مختص هوائيات
+63405.0,Aide monteur d'installations en télécommunications et courant faibles,مساعد مركب تثبيت في الاتصالات والتيار المنخفض
+63404.0,Agent technique relève dérangements en télécommunications,تقني في صيانة تجهيزات الاتصالات
+63403.0,Agent technique en télécommunications courants faibles,عون تقني في الاتصالات التيار المنخفض
+63402.0,Agent technique en télécommunications,عون تقني في الاتصالات
+63401.0,Agent de maintenance en systèmes d'alarme et de sécurité,عون صيانة في أنظمة الإنذار والأمان
+63332.0,Technicien-cuisiniste en cuisines professionnelles,تقني – مطبخي في المطابخ المهنية
+63331.0,Technicien supérieur de maintenance en exploitation climatique,تقني سامي في الصيانة تشغيل التكييف
+63330.0,Technicien frigoriste,تقني اختصاصي تبريد
+63329.0,Technicien en froid et climatisation,تقني في التبريد والتكييف
+63328.0,Technicien en climatisation Service Après Vente-SAV-,تقني في خدمة ما بعد البيع في التكييف
+63327.0,Technicien d'intervention et de maintenance en conditionnement d'air,تقني تدخل وصيانة في تكييف الهواء
+63326.0,Technicien d'intervention en froid industriel,تقني تدخل في التبريد الصناعي
+63325.0,Technicien d'intervention en froid et climatisation,تقني تدخل في التبريد والتكييف
+63324.0,Technicien d'intervention en froid commercial et climatisation,تقني تدخل في التبريد التجاري والتكييف
+63323.0,Technicien d'intervention en équipements de cuisines professionnelles,تقني تدخل في تجهيزات المطابخ المهنية
+63322.0,Technicien de test final en installation et maintenance en froid,تقني التجربة النهائية في تركيب وصيانة التبريد
+63321.0,Technicien de maintenance de système de filtration d'air,تقني في صيانة نظام تصفية الهواء
+63320.0,Monteur-frigoriste,مركب اختصاصي تبريد
+63319.0,Monteur-dépanneur frigoriste,مركب مصلح اختصاصي تبريد
+63318.0,Monteur-dépanneur en installations de froid et climatisation,مركب مصلح في تركيب التبريد والتكييف
+63317.0,Monteur-dépanneur en installations climatiques,مركب مصلح في تركيب التكييف
+63316.0,Monteur en gaines de ventilation,مركب في قنوات الهواء
+63315.0,Monteur en conditionnement d'air,مركب في تكييف الهواء
+63314.0,Mécanicien de maintenance des systèmes climatiques et frigorifiques,ميكانيكي صيانة أنظمة التكييف والتبريد
+63313.0,Frigoriste maritime,اختصاصي تبريد بحري
+63312.0,Frigoriste,اختصاصي تبريد
+63311.0,Dépanneur en installations de froid et climatisation,مصلح في تركيب التبريد والتكييف
+63310.0,Conducteur d'installations frigorifiques,قائد تركيبات التبريد
+63309.0,Chef d'équipe de maintenance en froid et climatisation,رئيس فريق الصيانة في التبريد والتكييف
+63308.0,Agent technicien en froid et climatisation,عون تقني في التبريد والتكييف
+63307.0,Agent d'encadrement en froid et conditionnement d'air,عون تأطير في التبريد، تكييف الهواء
+63306.0,Agent de test en installation et maintenance en froid,عون تجريب في التركيب والصيانة في التبريد
+63305.0,Agent de montage frigoriste,عون تركيب اختصاصي تبريد
+63304.0,Agent de maintenance en génie climatique,عون صيانة في هندسة التكييف والتبريد
+63303.0,Agent de maintenance en conditionnement d'air,عون صيانة في تكييف الهواء
+63302.0,Agent de maintenance en climatisation,عون صيانة في التبريد
+63301.0,Agent d'inspection en installation et maintenance en froid,عون تفتيش في التركيب والصيانة في التبريد
+63217.0,Technicien supérieur électronicien de maintenance électronique,تقني سامي في إلكترونيات الصيانة الإلكترونية
+63216.0,Technicien supérieur électronicien de maintenance de cartes électroniques,تقني سامي في إلكترونيات صيانة البطاقات إلكترونية
+63215.0,Technicien d'entretien d'appareillages de mesure et de régulation,تقني في صيانة تجهيزات القياس والضبط
+63214.0,Technicien de maintenance radar,تقني في صيانة أنظمة الرادار
+63213.0,Technicien de maintenance en sonorisation,تقني في صيانة العتاد الصوتي
+63212.0,Technicien de maintenance en matériel optoélectronique,تقني في صيانة العتاد البصري
+63211.0,Technicien de maintenance en matériel médical,تقني في صيانة المعدات الطبية
+63210.0,Technicien de maintenance en matériel de radiologie,تقني في صيانة معدات التصوير بالأشعة
+63209.0,Technicien de maintenance en matériel biomédical,تقني في صيانة المعدات البيو طبية
+63208.0,Technicien de maintenance en électronique,تقني في الصيانة الإلكترونية
+63207.0,Technicien de maintenance de systèmes optroniques,تقني في صيانة الأنظمة البصرية
+63206.0,Technicien de maintenance de systèmes laser,تقني في صيانة أنظمة الليزر
+63205.0,Technicien de maintenance de systèmes de détection,تقني في صيانة أنظمة الكشف
+63204.0,Technicien de maintenance de cartes électroniques,تقني في صيانة البطاقات الإلكترونية
+63203.0,Régleur-étalonneur en électronique,معاير-مضبط في مجال الإلكترونيات
+63202.0,Electromécanicien en installation et maintenance électronique,إلكترو نيكي في التركيب والصيانة الإلكترونية
+63201.0,Electromécanicien de maintenance de cartes électroniques,إلكترو نيكي في صيانة البطاقات الإلكترونية
+63128.0,Technicien supérieur pneumaticien,تقني في صيانة التركيبات الآلية
+63127.0,Technicien supérieur de maintenance industrielle,تقني في صيانة التجهيزات الصناعية
+63126.0,Technicien pneumaticien,تقني في خدمة الهوائيات المضغوطة
+63125.0,Technicien hydropneumatique,تقني في المائية الهوائية المضغوطة
+63124.0,Technicien électrotechnicien en installation d'exploitation,تقني في الكهروميكانيك في نظام التشغيل
+63123.0,Technicien électromécanicien,تقني في الكهروميكانيك
+63122.0,Technicien d'installation industrielle,تقني في التركيب الصناعي
+63121.0,Technicien d'installation d'équipements industriels,تقني في تركيب المعدات الصناعية
+63120.0,Technicien de maintenance industrielle,تقني في صيانة التركيبات الآلية
+63119.0,Technicien de maintenance en équipements industriels,تقني في صيانة التجهيزات الصناعية
+63118.0,Technicien de maintenance d'équipements de production,تقني في صيانة المعدات الإنتاج
+63117.0,Technicien de maintenance d'installations automatisées,تقني في صيانة التجهيزات الآلية
+63116.0,Technicien d'installation en automatisme,تقني في التركيب الآلي
+63115.0,Technicien automaticien de maintenance,تقني سامي في الصيانة الصناعية
+63114.0,Préparateur d'entretien en maintenance industrielle,مدرب صيانة في الصيانة الصناعية
+63113.0,Pneumaticien,مختص في تصنيع الهوائيات المضغوطة
+63112.0,Mécanicien industriel,ميكانيكي صناعي
+63111.0,Mécanicien de maintenance de matériel ferroviaire,ميكانيكي في صيانة عتاد السكك الحديدية
+63110.0,Mécanicien d'entretien,ميكانيكي صيانة
+63109.0,Instrumentiste en équipements industriels,مختص في التجهيزات الصناعية الألية
+63108.0,Hydraulicien industriel de maintenance,هيدروليكي صناعي في الصيانة
+63107.0,Hydraulicien industriel d’installation,هيدروليكي صناعي في التركيب
+63106.0,Hydraulicien,هيدروليكي
+63105.0,Électrotechnicien branche industrie,كهروميكاني في فرع الصناعة
+63104.0,Étlectromécanicien industriel,كهروميكاني صناعي
+63103.0,Étlectromécanicien d'équipements industriels,كهروميكاني في التجهيزات الصناعية
+63102.0,Étlectromécanicien de maintenance industrielle,كهروميكاني في الصيانة الصناعية
+63101.0,Étlectromécanicien,كهروميكاني
+63006.0,Technicien Service Après Vente-SAVde distributeurs automatiques,تقني خدمات ما بعد البيع الموزعات الآلية
+63005.0,Technicien de maintenance de Machines à SousMAS,تقني صيانة الموزعات الآلية للنقود
+63004.0,Opérateur d'installation de distributeurs automatiques,عامل تركيب الموزعات الآلية
+63003.0,Contrôleur Service Après Vente-SAVde distributeurs automatiques,مراقب خدمات ما بعد البيع للموزعات الآلية
+63002.0,Agent de maintenance-SAVde distributeurs automatiques,عون صيانة (خدمات ما بعد البيع) الموزعات الآلية
+63001.0,Agent d'approvisionnement de distributeurs automatiques,عون تموين الموزعات الآلية للنقود
+62920.0,Technicien supérieur réparateur en travaux d'ascenseurs,تقني سامي في تصليح المصاعد
+62919.0,Technicien supérieur de maintenance de travaux d'ascenseurs,تقني سامي في صيانة أشغال المصاعد
+62918.0,Technicien de monte-charges,تقني في مصاعد الحمولات
+62917.0,Technicien de montage d'ascenseurs,تقني في تركيب المصاعد
+62916.0,Technicien de maintenance d'escaliers mécaniques,تقني في صيانة السلالم المتحركة
+62915.0,Technicien de maintenance de remontées mécaniques,تقني في صيانة الرافعات المتحركة
+62914.0,Technicien de maintenance d'ascenseurs,تقني في صيانة المصاعد
+62913.0,Régleur d'ascenseurs,قائم بضبط المصاعد
+62912.0,Monteur d'ascenseurs,قائم تركيب المصاعد
+62911.0,Mécanicien-électricien dépanneur d'ascenseurs,ميكانيكي كهربائي في إصلاح المصاعد
+62910.0,Mécanicien-électricien d'ascenseurs,ميكانيكي كهربائي في المصاعد
+62909.0,Contremaitre de montage d'ascenseurs,رئيس فريق تركيب المصاعد
+62908.0,Contremaitre de maintenance d'ascenseurs,رئيس فريق صيانة المصاعد
+62907.0,Ascensoriste,مكلف بالمصعد
+62906.0,Agent d'entretien et de dépannage d'ascenseurs,عون صيانة وتصليح المصاعد
+62905.0,Agent d'entretien d'ascenseurs,عون صيانة المصاعد
+62904.0,Agent de réparation d'ascenseurs,عون تصليح المصاعد
+62903.0,Agent de montage en ascenseurs,عون تركيب المصاعد
+62902.0,Agent de maintenance d'ascenseurs,عون صيانة المصاعد
+62901.0,Agent de dépannage d'ascenseurs,عون تصليح أعطال المصاعد
+62808.0,Ingénieur d'entretien maintenance et travaux neufs en industrie,مهندس في الصيانة والأشغال الجديدة في الصناعة
+62807.0,Ingénieur d'entretien en maintenance industrielle,مهندس في الصيانة الصناعية
+62806.0,Ingénieur de zone en maintenance industrielle,مهندس منطقة الصيانة الصناعية
+62805.0,Ingénieur de maintenance industrielle,مهندس الصيانة الصناعية
+62804.0,Ingénieur de maintenance en matériels roulants,مهندس في صيانة العتاد المتنقل
+62803.0,Ingénieur de maintenance en matériel de production,مهندس في صيانة معدات الإنتاج
+62802.0,Ingénieur de maintenance en instrumentation,مهندس في الصيانة و الضبط و القياس
+62801.0,Ingénieur de maintenance en appareillage,مهندس في صيانة الأجهزة
+62710.0,Tuyauteur-traceur,مركب – مخطط انابيب
+62709.0,Tuyauteur-soudeur,مركب – ملحم انابيب
+62708.0,Tuyauteur-monteur,مركب – عامل تجميع انابيب
+62707.0,Tuyauteur-cintreur,مركب – مقوس أنابيب
+62706.0,Tuyauteur sur acier inox,مركب أنابيب الفولاذ غير القابل للصدأ (INOX) 
+62705.0,Tuyauteur industriel,مركب أنابيب صناعية
+62704.0,Tuyauteur en matières plastiques,مركب أنابيب البلاستيكية
+62703.0,Tuyauteur en haute pression,مركب أنابيب الضغط العالي
+62702.0,Tuyauteur en constructions navales,مركب أنابيب في البناء البحري
+62701.0,Tuyauteur en basse pression,مركب أنابيب الضغط المنخفض
+62602.0,Chef d'équipe en construction métallique,رئيس فريق في البناء المعدني
+62601.0,Charpentier industriel en construction métalliques,صانع الهياكل المعدنية الصناعية
+62514.0,Soudeur-braseur,لحام-لحام بنظام التلحيم المستمر
+62513.0,Soudeur Tungsten Inert Gas-TIG-,لحام بغاز التنغستن الخامل TIG-
+62512.0,Soudeur Metal Inert Gas-MIG-,لحام بالغاز المعدني الخامل MIG-
+62511.0,Soudeur Metal Active Gas-MAG-,لحام بالغاز المعدني الفعال MAG-
+62510.0,Soudeur au chalumeau oxyacétylénique,لحام بمنفاخ أوكساسيتيلين
+62509.0,Soudeur à l'électrode enrobée,لحام بالأقطاب المغلفة
+62508.0,Soudeur à l'arc semi-automatique,لحام بالقوس شبه الآلي
+62507.0,Soudeur à l'arc électrique,لحام بالقوس الكهربائي
+62506.0,Soudeur à la flamme,لحام باللهب
+62505.0,Soudeur,لحام
+62504.0,Opérateur sur machine de soudage,عامل على آلة التلحيم
+62503.0,Opérateur soudeur sur machine de rechargement,عامل لحام على آلة الشحن
+62502.0,Chef soudeur,لحام أول
+62501.0,Braseur,لحام بالتلحيم المستمر
+62422.0,Technicien modeleur,تقني صانع النماذج 
+62421.0,Remouleur,صانع النماذج
+62420.0,Noyauteur mécanique,مركب النواة ميكانيكيا
+62419.0,Noyauteur manuel,مركب يدوي لنواة القوالب
+62418.0,Noyauteur main sur matériaux non métalliques,مركب يدوي لنواة القوالب غير معدنية
+62417.0,Noyauteur en céramique,مركب نواة بالخزف
+62416.0,Noyauteur,مركب نواة القوالب
+62415.0,Mouleur noyauteur,صانع قوالب تحتوي على نواة
+62414.0,Mouleur mécanique,صانع قوالب ميكانيكيا
+62413.0,Mouleur manuel,صانع يدوي للقوالب
+62412.0,Modeleur sur matériaux non métalliques,صانع نماذج غير المعدنية
+62411.0,Modeleur en fonderie,صانع نماذج لصهر المعادن
+62410.0,Modeleur bois,صانع النماذج الخشبية
+62409.0,Modeleur sur plâtre,صانع النماذج الجبسية
+62408.0,Modeleur résine,صانع النماذج الصمغية
+62407.0,Modeleur plaquiste,صانع النماذج مركب الصفائح
+62406.0,Modeleur mouliste,صانع نماذج القوالب
+62405.0,Modeleur matières plastiques,صانع النماذج البلاستيكية
+62404.0,Modeleur en céramique,صانع النماذج الخزفية
+62403.0,Modeleur,صانع النماذج
+62402.0,Maquettiste modeleur,شاحذ القطع
+62401.0,Chef d'atelier de modelage,رئيس ورشة صناعة النماذج
+62319.0,Technicien poste de commande-PCen production des métaux,تقني مركز التحكم في إنتاج المعادن
+62318.0,Technicien de plancher,تقني ارضية الصب
+62317.0,Opérateur soufflage en production des métaux,مشغل نفخ في إنتاج المعادن
+62316.0,Opérateur polyvalent en production des métaux,مشغل متعدد المهام في إنتاج المعادن
+62315.0,Opérateur en production des métaux,مشغل في إنتاج المعادن
+62314.0,Opérateur de poste commande -PCen production des métaux,مشغل مركز التحكم في إنتاج المعادن
+62313.0,Opérateur de coulée continue,مشغل السبك المستمر
+62312.0,Opérateur mélangeur et refroidisseur en production des métaux,مشغل قائم بالمزج والتبريد في إنتاج المعادن
+62311.0,Fondeur,عامل في صهر المعادن
+62310.0,Dispatcheur de fonte,موزع حديد الزهر
+62309.0,Couleur en production des métaux,عامل الصب في إنتاج المعادن
+62308.0,Contremaître machine de coulée,رئيس فريق آلة صب المعادن المصهور
+62307.0,Contremaître au convertisseur,رئيس فريق في محول صب المعادن
+62306.0,Conducteur couleur en production des métaux,قائد  الصب في إنتاج المعادن 
+62305.0,Chef fondeur,رئيس فريق صهر المعادن
+62304.0,Aide fondeur,مساعد في صهر المعادن
+62303.0,Agent de granulation,عامل في تصنيع الحبيبات المعدنية
+62302.0,Aciériste versée coulée,عامل في صب الحديد المصهور
+62301.0,Aciériste,عامل في تصنيع الفولاذ (الصلب)
+62227.0,Responsable central de coupe,رئيس فريق تقطيع المواد
+62226.0,Oxycoupeur sur machine à lecture optique de matériaux,عامل تقطيع على آلة القراءة البصرية للمواد
+62225.0,Oxycoupeur sur machine à commande numérique –CN,عامل تقطيع بالأكسدة على آلة ذات تحكم رقمي
+62224.0,Oxycoupeur automatique,عامل تقطيع بالأكسدة الأوتوماتكية
+62223.0,Oxycoupeur,عامل تقطيع بالأكسدة
+62222.0,Opérateur sur poinçonneuse,مشغل آلة التخريم
+62221.0,Opérateur sur machine de découpage de matériaux,مشغل آلة تقطيع المواد
+62220.0,Opérateur sur machine de découpage à commande numérique –CN,مشغل آلة التقطيع ذات التحكم الرقمي
+62219.0,Opérateur de planeuse,مشغل آلة التسطيح
+62218.0,Opérateur de cintreuse,مشغل آلة التقويس
+62217.0,Machiniste sur presse de formage des métaux,مشغل آلة ضغط تشكيل المعادن
+62216.0,Machiniste de presse,عامل على آلة الضغط
+62215.0,Guillotineur,عامل التقطيع بالمقص
+62214.0,Emboutisseur,عامل واضع الأختام المعدنية
+62213.0,Coupeur-rompeur en verre plat,عامل تقطيع ونفخ الزجاج المسطح
+62212.0,Coupeur de verre plat,عامل تقطيع الزجاج المسطح
+62211.0,Coupeur au chalumeau,عامل تقطيع بالشعلة
+62210.0,Conducteur de rouleuse cintreuse,مشغل آلة التقويس والتلفيف
+62209.0,Conducteur de plieuse,مشغل آلة الطي
+62208.0,Conducteur de machine de débitage de matériaux,عامل على آلة قص المواد
+62207.0,Conducteur de grignoteuse manuelle,مشغل مقرضة يدوية
+62206.0,Conducteur de dressage des métaux,عامل استقامة المعادن
+62205.0,Cisailleur de laminoir,عامل تقطيع المصفحة
+62204.0,Chef d'équipe machiniste presse,رئيس الفريق العامل على آلة الضغط
+62203.0,Chef d'équipe de débitage de matériaux,رئيس فريق تقطيع المواد
+62202.0,Agent de débitage de matériaux,عون تقطيع المواد
+62201.0,Conducteur de machine de découpage de matériaux,عامل تقطيع المواد
+62117.0,Tourneur sur commande numérique-CN,خراط على آلة ذات تحكم رقمي
+62116.0,Tourneur,خراط
+62115.0,Tailleur en usinage,عامل تقطيع في التصنيع
+62114.0,Régleur conducteur polyvalent,عامل ضبط وتشغيل متعدد المهام
+62113.0,Rectifieur en usinage,عامل تصحيح في التصنيع
+62112.0,Rectifieur d'engrenage,عامل في تصحيح التشابك
+62111.0,Rectifieur,عامل تصحيح في التصنيع
+62110.0,Perceur sur machine radiale,عامل تثقيب على آلة نصف قطرية
+62109.0,Opérateur sur machine d'usinage,مشغل آلة تصنيع
+62108.0,Opérateur régleur usinage,مشغل مكلف بالضبط في التصنيع
+62107.0,Opérateur de centre d'usinage,مشغل مركز التصنيع
+62106.0,Opérateur commande numérique-CN,مشغل آلة ذات تحكم رقمي
+62105.0,Fraiseur sur commande numérique-CN,عامل تفريز على آلة ذات تحكم رقمي
+62104.0,Fraiseur,عامل تفريز
+62103.0,Etinceleur en électroérosion,مشعل الشرارة بالتآكل الكهربائي
+62102.0,Aléseur,عامل تخريط
+62101.0,Affûteur,عامل شحذ في التصنيع
+62008.0,Opérateur sur machine automatisée de production mécanique,عامل على آلة أوتوماتيكية للإنتاج الميكانيكي
+62007.0,Opérateur sur machine automatisée de montage-assemblage mécanique,عامل على آلة أوتوماتيكية للتركيب والتجميع الميكانيكي
+62006.0,Opérateur montage mécanique,عامل التركيب الميكانيكي
+62005.0,Opérateur d'assemblage mécanique,عامل في تجميع وتركيب القطع الميكانيكية
+62004.0,Monteur sur chaîne d'assemblage mécanique,مركب على سلسلة التجميع الميكانيكي
+62003.0,Monteur en lunetterie,فني تركيب المنظار
+62002.0,Monteur de pièces mécaniques,مركب القطع الميكانيكية
+62001.0,Assembleur monteur en pièces mécaniques,عامل التجميع الميكانيكي
+61910.0,Outilleur-mouliste,عامل تصنيع قوالب القطع الميكانيكية – قوالب السباكة
+61909.0,Monteur régleur de systèmes mécaniques,عامل تركيب ضبط الأنظمة الميكانيكية
+61908.0,Monteur ajusteur de fabrication,عامل تركيب تعديل في التصنيع
+61907.0,Mécanicien-ajusteur de fabrication,ميكانيكي التعديل في التصنيع
+61906.0,Mécanicien de précision en fabrication,ميكانيكي التدقيق في التصنيع
+61905.0,Mécanicien mouliste de fabrication,ميكانيكي في قوالب السباكة في التصنيع
+61904.0,Ajusteur-outilleur sur moule métallique,عامل تعديل-تصنيع قوالب القطع الميكانيكية على قوالب معدنية
+61903.0,Ajusteur-outilleur de fabrication,عامل تركيب تعديل في التصنيع
+61902.0,Ajusteur de systèmes mécaniques,عامل تعديل الأنظمة الميكانيكية
+61901.0,Ajusteur de fabrication,عامل تعديل في التصنيع
+61814.0,Rectificateur de composants électroniques,مقوم المكونات الإلكترونية
+61813.0,Opérateur sur machine semi-automatique en production électronique,مشغل على آلة إنتاج شبه الإلكترونية
+61812.0,Opérateur de sous – ensembles électriques,مشغل الأجزاء الكهربائية الفرعية
+61811.0,Opérateur de fabrication de matériels électriques et électroniques,مشغل تصنيع المعدات الكهربائية والإلكترونية
+61810.0,Opérateur de fabrication de matériels électriques,مشغل تصنيع المعدات الكهربائية
+61809.0,Agent d'insertion semi-automatique de composants électroniques,عون الإدماج شبه -أوتوماتيكي للمكونات الإلكترونية
+61808.0,Agent d'insertion manuelle de composants électroniques,عون الإدماج اليدوي للمكونات الإلكترونية
+61807.0,Agent d'insertion automatique de composants électroniques,عون الإدماج الأوتوماتيكي للمكونات الإلكترونية
+61806.0,Agent de production de matériels électriques,عون إنتاج المعدات الكهربائية
+61805.0,Agent de montage et d'insertion de matériels électroniques,عون تركيب وإدماج المعدات الإلكترونية
+61804.0,Agent de montage de matériels électroniques,عون تركيب المعدات الالكترونية
+61803.0,Agent de montage de matériels électriques,عامل تركيب المعدات الكهربائية
+61802.0,Agent d'assemblage de matériels électroniques,عامل تركيب المعدات الإلكترونية
+61801.0,Agent de préparation matières de matériels électroniques,عامل تحضير مواد المعدات الإلكترونية
+61709.0,Opérateur-soudeur à la vague,لحام على آلة تلحيم مموجة
+61708.0,Opérateur sur machines d'insertion de composants électroniques,عامل على آلة إدماج المكونات الإلكترونية
+61707.0,Opérateur sur machines automatisées en production électronique,مشغل خط أوتوماتيكي للإنتاج الإلكتروني
+61706.0,Opérateur sur machines automatisées en production électrique,مشغل خط أوتوماتيكي للإنتاج الكهربائي
+61705.0,Opérateur sur machine à bobiner en électricité,عامل على آلة تلفيف كهربائي
+61704.0,Opérateur de ligne en électronique,مشغل خط إلكتروني
+61703.0,Conducteur de machines à vagues,عامل على آلة تشغيل ماكينات التموُّج
+61702.0,Conducteur de ligne automatisée en production électronique,عامل على آلة أوتوماتيكية في الإنتاج الإلكتروني
+61701.0,Conducteur de ligne automatisée en production électrique,عامل على آلة أوتوماتيكية في الإنتاج الكهربائي
+61609.0,Monteur-câbleur de matériels électriques,مكلف بالتركيب والتوصيل الكهربائي على المعدات الكهربائية
+61608.0,Monteur-câbleur d'armoires électriques,مكلف بالتركيب والتوصيل الكهربائي على الخزانات
+61607.0,Monteur de transformateurs,مركب المحولات
+61606.0,"Monteur –câbleur de ligne moyenne tension-MT /basse tension BT, haute tension-HT/très haute tension-THT",مكلف بالتركيب والتوصيل الكهربائي على خطوط الضغط المتوسط، الضغط المنخفض، الضغط العالي، الضغط العالي جدا
+61605.0,Électromécanicien de régulation,كهروميكانيكي الضبط
+61604.0,Électricien d'équipements industriels,كهربائي التجهيزات الصناعية
+61603.0,Câbleur en haute tension,مكلف بالتوصيل الكهربائي على خطوط الضغط العالي
+61602.0,Câbleur de matériels électriques,مكلف بالتوصيل الكهربائي على المعدات الكهربائية
+61601.0,Câbleur d'armoires électriques,مكلف بالتوصيل الكهربائي على الخزانات
+61508.0,Technicien électro-bobinage,تقني كهرو تلفيف
+61507.0,Technicien d'atelier de bobinage en électricité,تقني ورشة تلفيف كهربائي
+61506.0,Technicien bobineur,تقني مختص في التلفيف
+61505.0,Rebobineur en électricité,عامل مكلف بإعادة التلفيف في الكهرباء
+61504.0,Bobinier électromécanicien,عامل مكلف بالتلفيف كهروميكانيكي
+61503.0,Bobineur en électricité,عامل مكلف بالتلفيف في الكهرباء
+61502.0,Bobineur de maintenance,عامل مكلف بالتلفيف في الصيانة
+61501.0,Bobineur,عامل مكلف بالتلفيف
+61417.0,Technicien qualité produit électricité-électronique,تقني جودة المنتج في الكهرباء والإلكترونيات
+61416.0,Technicien d'essais en électricité,تقني اختبارات في الكهرباء
+61415.0,Technicien de maintenance et contrôle-tests de cartes électroniques,تقني صيانة واختبارات للوحات الإلكترونية
+61414.0,Technicien de contrôle fabrication électronique,تقني مراقبة تصنيع الإلكترونيات
+61413.0,Technicien de contrôle et de tests en électricité,تقني مراقبة واختبارات في الكهرباء
+61412.0,Technicien contrôle qualité électricité-électronique,تقني مراقبة جودة الكهرباء والإلكترونيات
+61411.0,Technicien contrôle final électricité-électronique,تقني مراقبة نهائية في الكهرباء والإلكترونيات
+61410.0,Technicien de contrôle en électrotechnique,تقني مراقبة في الهندسة الكهربائية
+61409.0,Technicien de contrôle en électronique,تقني مراقبة في الإلكترونيات
+61408.0,Opérateur étalonnage électricité-électronique,عامل معايرة الكهرباء والإلكترونيات
+61407.0,Contrôleur qualité en électronique,مراقب جودة في الإلكترونيات
+61406.0,Contrôleur qualité en électricité,مراقب جودة في الكهرباء
+61405.0,Contrôleur en électronique,مراقب في الإلكترونيات
+61404.0,Contrôleur électronicien,مراقب إلكتروني
+61403.0,Contrôleur électricien,مراقب كهربائي
+61402.0,Contrôleur qualité électricité-électronique,مراقب جودة الكهرباء والإلكترونيات
+61401.0,Agent de test et contrôle électricité-électronique,عامل اختبار ومراقبة الكهرباء والإلكترونيات
+61317.0,Technicien polyvalent en mécanique et travail des métaux,تقني متعدد المهام في الميكانيك
+61316.0,Technicien laboratoire en métallurgie,تقني مخبر في التعدين
+61315.0,Technicien essai mécanique,تقني المراقبة في الميكانيك وتشغيل المعادن
+61314.0,Technicien d'analyse et d'essais métallurgiques,تقني تحليل و تجارب التعدين
+61313.0,Technicien contrôle en métallurgie,تقني المراقبة في التعدين
+61312.0,Technicien contrôle en laboratoire de métallurgie,تقني المراقبة في مخبر التعدين
+61311.0,Préparateur contrôle métallurgie,محضر مراقبة التعدين
+61310.0,Opérateur spectromètre en métallurgie,عامل في المقياس الطيفي في التعدين
+61309.0,Laborantin d'essai et contrôle en métallurgie,مخبري التجارب و المراقبة في التعدين
+61308.0,Échantillonneur en mécanique et travail des métaux,مكلف بالعينات في الميكانيك وتشغيل المعادن
+61307.0,Contrôleur qualité polyvalent en mécanique et travail des métaux,مراقب نوعية متعدد المهام في الميكانيك وتشغيل المعادن
+61306.0,Contrôleur marqueur en mécanique et travail des métaux,مراقب مسجّل العلامات في الميكانيك وتشغيل المعادن
+61305.0,Chargé de contrôle en métallurgie,مكلف بالمراقبة في التعدين
+61304.0,Agent d'essai contrôle mécanique,عون تجارب المراقبة الميكانيكية
+61303.0,Agent de laboratoire en contrôle métallurgie,عون مخبر في مراقبة التعدين
+61302.0,Agent de contrôle non destructif en mécanique et travail des métaux,عون المراقبة الغير تدميرية في الميكانيك وتشغيل المعادن
+61301.0,Agent de contrôle destructif en mécanique et travail des métaux,عون مراقبة تدميرية في الميكانيك وتشغيل المعادن
+61225.0,Technicien laboratoire en matériaux de construction,تقني مختبر في مواد البناء
+61224.0,Technicien de laboratoire d'analyse industrielle,تقني مختبر تحليل صناعي
+61223.0,Technicien de contrôle en métallurgie/sidérurgie,تقني مراقبة في الميتالورجيا / الحديد والصلب
+61222.0,Technicien de contrôle en industrie pharmaceutique,تقني مراقبة في صناعة الأدوية
+61221.0,Technicien de contrôle en industrie chimique,تقني مراقبة في صناعة الكيمياء
+61220.0,Technicien de contrôle en industrie alimentaire,تقني مراقبة في صناعة الأغذية
+61219.0,Technicien de contrôle en énergie/pétrochimie,تقني مراقبة في مجال الطاقة / البتروكيماويات
+61218.0,Technicien d'analyse industrielle,تقني تحليل صناعي
+61217.0,Technicien d'analyse en industrie alimentaire,تقني تحليل في صناعة الأغذية
+61216.0,Technicien d'analyse des eaux,تقني تحليل المياه
+61215.0,Technicien d'analyse de la qualité de l'eau,تقني تحليل جودة المياه
+61214.0,Technicien chimiste de contrôle en industrie,تقني كيميائي لمراقبة الصناعة
+61213.0,Technicien chimiste d'analyse industrielle,تقني كيميائي لتحليل الصناعة
+61212.0,Technicien chimie environnement en industrie,تقني في الكيمياء البيئية في الصناعة
+61211.0,Préleveur d'eau,عون مكلف بأخذ عينات الماء
+61210.0,Préleveur d'analyse industrielle,عون مكلف بأخذ العينات للتحليل الصناعي
+61209.0,Laborantin de contrôle en industrie,مساعد مخبري في المراقبة الصناعية
+61208.0,Laborantin d'analyse industrielle,مساعد مخبري في التحليل الصناعي
+61207.0,Formulateur en arômes,محضر تركيبة النكهات
+61206.0,Chimiste d'analyse industrielle,مختص الكيمياء في التحليل الصناعي
+61205.0,Chimiste de contrôle en industrie,مختص الكيمياء في المراقبة الصناعية
+61204.0,Biologiste en analyse pharmaceutique,مختص بيولوجي في التحليل الصيدلاني
+61203.0,Biologiste en contrôle industriel,مختص بيولوجي في المراقبة الصناعية
+61202.0,Biologiste en analyse industrielle,مختص بيولوجي في التحليل الصناعي
+61201.0,Analyste sensoriel,محلل تحسيسي
+61113.0,Ingénieur qualité en industrie,مهندس مراقبة النوعية في الصناعة
+61112.0,Ingénieur métallurgiste en qualité industrielle,مهندس معدني في النوعية الصناعية
+61111.0,Ingénieur métallographie en qualité industrielle,مهندس مختص في التركيب المعدني في النوعية الصناعية
+61110.0,Ingénieur mécanicien en qualité industrielle,مهندس ميكانيكي في النوعية الصناعية
+61109.0,Ingénieur d'essai en qualité industrielle,مهندس التجارب في النوعية الصناعية
+61108.0,Ingénieur contrôle réception en industrie,مهندس مراقبة الاستلام في الصناعة
+61107.0,Ingénieur contrôle qualité en industrie pharmaceutique,مهندس مراقبة النوعية في الصناعية الصيدلانية
+61106.0,Ingénieur contrôle qualité en industrie,مهندس مراقبة النوعية الصناعية
+61105.0,Ingénieur chimiste en qualité industrielle,مهندس كيميائي في النوعية الصناعية
+61104.0,Ingénieur assurance qualité en industrie,مهندس تأمين النوعية الصناعية
+61103.0,Coordinateur qualité environnement en industrie,منسق عام في نوعية البيئة الصناعية
+61102.0,Coordinateur qualité en industrie,منسق النوعية الصناعية
+61101.0,Auditeur qualité en industrie,مدقق نوعية في الصناعة
+61003.0,Technicien planification de production industrielle,تقني في تخطيط الإنتاج الصناعي
+61002.0,Technicien ordonnancement-lancement production,تقني مصلحة تنظيم وإدارة انطلاق الإنتاج
+61001.0,Technicien en gestion de production industrielle,تقني في تسيير الانتاج الصناعي
+60903.0,Technicien méthodes en industrie,تقني في طرق الإنتاج في الصناعة
+60902.0,Responsable méthodes en industrie,رئيس مصلحة طرق الإنتاج الصناعي
+60901.0,Ingénieur méthodes en industrie,مهندس طرق الإنتاج في الصناعة
+60804.0,Inspecteur des appareils sous pression (APVG),مفتش الأجهزة تحت الضغط (APVG)
+60803.0,Inspecteur des appareils électriques (APE),مفتش الأجهزة الكهربائية (APE)
+60802.0,Inspecteur des appareils de levage et de manutention (APL),مفتش أجهزة الرفع والشحن والتفريغ (APL)
+60801.0,Inspecteur de contrôle non destructif -CND,مفتش المراقبة غير التدميرية CND
+60705.0,"Superviseur hygiène, sécurité et environnement en industrie",مدير النظافة، السلامة والبيئة في الصناعة
+60704.0,"Préventeur hygiène, sécurité et environnement en industrie",مكلف بالوقاية في النظافة، السلامة والبيئة في الصناعة
+60703.0,"Ingénieur hygiène, sécurité et environnement en industrie",مهندس النظافة، السلامة والبيئة في الصناعة
+60702.0,"Coordinateur hygiène, sécurité et environnement en industrie",منسق النظافة، السلامة والبيئة في الصناعة
+60701.0,"Animateur hygiène, sécurité et environnement en industrie",منشط النظافة، السلامة والبيئة في الصناعة
+60604.0,Designer textiles,مصمم المواد النسيجية
+60603.0,Designer packaging,مصمم الأغلفة وعلب التعبئة
+60602.0,Designer mobilier,مصمم أثاث
+60601.0,Designer produit,مصمم منتوجات
+60516.0,Maquettiste en conception industrielle,مصمم مجسمات في التصميم الصناعي
+60515.0,Dessinateur-projeteur en tuyauterie industrielle,رسام الاسقاط في الأنابيب الصناعية
+60514.0,Dessinateur-projeteur en construction métallique,رسام الاسقاط في البناءات المعدنية
+60513.0,Dessinateur-projeteur en construction mécanique,رسام الاسقاط في البناءات الميكانيكية
+60512.0,Dessinateur petites études en mécanique,رسام دراسات صغيرة في الميكانيك
+60511.0,Dessinateur en tuyauterie industrielle,رسام أنابيب صناعية
+60510.0,Dessinateur en outillage,رسام أدوات
+60509.0,Dessinateur en construction mécanique,رسام في البناءات الميكانيكية
+60508.0,Dessinateur en chaudronnerie,رسام في الصناعة المعدنية
+60507.0,Dessinateur en charpente métallique,رسام في الهياكل المعدنية
+60506.0,Dessinateur d'exécution en mécanique,رسام تنفيذي في الميكانيك
+60505.0,Dessinateur d'exécution en construction mécanique,رسام تنفيذي في البناءات الميكانيكية
+60504.0,Dessinateur d'études en mécanique,رسام الدراسات في الميكانيك
+60503.0,Dessinateur d'études en construction mécanique,رسام دراسات في البناءات الميكانيكية
+60502.0,Concepteur de produits industriels mécaniques,مصمم منتجات صناعية ميكانيكية
+60501.0,Calculateur études en mécanique,مكلف بالحسابات الدراسات في الميكانيك
+60410.0,Technicien supérieur études en électronique,تقني سامي في الدراسات الإلكترونية
+60409.0,Technicien supérieur études en électricité,تقني سامي في الدراسات الكهربائية
+60408.0,Responsable de bureau d'études techniques électriques et électroniques,مسؤول مكتب دراسات تقنية كهربائية في الإلكترونيك
+60407.0,Ingénieur technique électrique et électronique,مهندس تقني كهربائي وإلكتروني
+60406.0,Ingénieur projet d'études électrique et électronique,مهندس مشروع دراسة كهربائية وإلكترونية
+60405.0,Dessinateur d'exécution en électricité,رسام تنفيذي في الكهرباء
+60404.0,Dessinateur d'études en électricité,رسام دراسات كهربائية
+60403.0,Dessinateur de schémas électriques,رسام مخططات كهربائية
+60402.0,Concepteurréalisateur de produits électriques,مصمم – منجز منتجات كهربائية
+60401.0,Chef de projet de produits électriques et électroniques,رئيس مشروع منتجات كهربائية وإلكترونية
+60322.0,Technicien galéniste,تقني في صناعة الصيغ الصيدلانية للأدوية
+60321.0,Technicien en recherche-développement en industrie,تقني في البحوث والتطوير في الصناعة
+60320.0,Technicien en recherche scientifique,تقني في البحث العلمي
+60319.0,Technicien d'études et recherche en électronique,تقني في دراسات وبحوث الإلكترونيات
+60318.0,Technicien d'études en recherche et développement en industrie,تقني في دراسات البحوث والتطوير في الصناعة
+60317.0,Technicien d'études en informatique industrielle,تقني في الإعلام الآلي الصناعي
+60316.0,Technicien de recherche et développement en robotique,تقني في البحوث وتطوير الصناعات الروبوتية
+60315.0,Technicien de recherche et développement en métallurgie,تقني في البحوث وتطوير الصناعة المعدنية
+60314.0,Technicien de bureau d'études techniques BETen développement industriel,تقني في مكتب الدراسات التقنية في التطوير الصناعي
+60313.0,Technicien biologiste en recherche-développement,تقني بيولوجي في البحث والتطوير
+60312.0,Technicien chimiste en recherche-développement,تقني كيميائي في البحث والتطوير
+60311.0,Rédacteur technique,كاتب تقني
+60310.0,Ingénieur chimiste en industrie,مهندس كيميائي في الصناعة
+60309.0,Galéniste en industrie pharmaceutique,متخصص في الصيغ الصيدلانية في صناعة الأدوية
+60308.0,Directeur d'études recherche et développement en industrie,مدير الدراسات والبحوث والتطوير في الصناعة
+60307.0,Directeur d'études et recherche en galénique,مدير الدراسات والبحوث في الصيغ الصيدلانية
+60306.0,Développeur de système électrique,مطوِّر لأنظمة كهربائية
+60305.0,Chef de projet recherche et développement en industrie,رئيس مشروع البحث والتطوير في الصناعة
+60304.0,Chargé d'études et développement en industrie pharmaceutique,مكلف بدراسات وتطوير في صناعة الأدوية
+60303.0,Chargé d'études projets industriels,مكلف بدراسات مشاريع صناعية
+60302.0,"Bio-informaticien en études, recherche et développement",معلوماتي حيوي في الدراسات والبحث والتطوير
+60301.0,Automaticien d'études et développement en industrie,مهندس دراسات وتطوير في الصناعة
+60205.0,Représentant technique utilisateur,ممثل تقني للزبون المستخدم
+60204.0,Ingénieur assistance technique en maintenance,مهندس تقني في الصيانة
+60203.0,Ingénieur assistance technique,مهندس الدعم التقني
+60202.0,Ingénieur assistance technique service client,مهندس خدمة الزبائن
+60201.0,Chef de cellule assistance technique,رئيس الخلية التقنية
+60105.0,Responsable de gestion des contrats marchés,مسؤول تسيير عقود الصفقات
+60104.0,Responsable d'affaires en industrie,مسؤول الأعمال في الصناعة
+60103.0,Ingénieur technico-commercial affaires industrielles,مهندس تقني تجاري في الأعمال الصناعية
+60102.0,Chargé d'affaires et partenariat,مكلف بالأعمال والشراكة
+60101.0,Chargé d'affaires en industrie,مكلف بالأعمال في الصناعة
+50207.0,Concepteur rédacteur multimédia,مصمم وكاتب الوسائط المتعددة
+50206.0,Concepteur réalisateur multimédia,مصمم ومخرج الوسائط المتعددة
+50205.0,Concepteur réalisateur communication,مصمم ومخرج في الوسائط المتعددة
+50204.0,Concepteur multimédia,مصمم الوسائط المتعددة
+50203.0,Concepteur en publicité,مصمم الإعلانات
+50202.0,Concepteur de jeux vidéo,مصمم ألعاب الفيديو
+50201.0,Chef de groupe de création multimédia,رئيس فريق الاعداد في وسائل الإعلام
+50107.0,Organisateur de soirées,منظم السهرات 
+50106.0,Organisateur de réceptions,منظم حفلات الاستقبال
+50105.0,Organisateur de séminaires,منظم الملتقيات
+50104.0,Organisateur de mariages ,منظم حفلات الزفاف 
+50103.0,Conseiller en organisation événementielle,مستشار في تنظيم التظاهرات
+50102.0,Chef de projet événementiel,رئيس مشروع في تنظيم التظاهرات
+50101.0,Assistant commercial d'événementiel,مساعد تجاري في تنظيم التظاهرات
+40218.0,Technicien produits électroménager brun,تقني منتوجات أجهزة كهربائية منزلية داكنة
+40217.0,Technicien produits électroménager blanc,تقني منتوجات أجهزة كهربائية منزلية بيضاء
+40216.0,"Technicien en télévision, hi-fi",تقني في التلفزيون وأجهزة الصوت عالية الوضوح
+40215.0,Technicien en électroménager,تقني في الأجهزة الكهرومنزلية
+40214.0,Technicien dépanneur petits électroménagers,تقني مصلح أجهزة كهربائية منزلية صغيرة
+40213.0,Technicien dépanneur gros électroménagers,تقني مصلح أجهزة كهربائية منزلية كبيرة
+40212.0,Technicien de maintenance en appareils électroménagers,تقني في الصيانة للأجهزة الكهربائية المنزلية
+40211.0,Responsable service après-vente-SAVen électroménager,مسؤول مصلحة ما بعد البيع في أجهزة كهربائية منزلية
+40210.0,"Réparateur en télévision, hi-fi",فني صيانة تلفزيون وأجهزة صوت عالية الوضوح
+40209.0,Réparateur en électroménager,فني صيانة أجهزة كهربائية منزلية
+40208.0,Réparateur de matériels photographiques,مصلح معدات التصوير الفوتوغرافي
+40207.0,Réparateur de machines à coudre,مصلح آلات الخياطة
+40206.0,Réparateur d'appareils photographiques,مصلح أجهزة تصوير فوتوغرافي
+40205.0,"Dépanneur en télévision, hi-fi",مصلح تلفزيون وأجهزة صوت عالية الوضوح
+40204.0,Dépanneur en électroménager,مصلح في مجال الأجهزة الكهربائية المنزلية
+40203.0,Dépanneur d'équipements électroménager brun,مصلح أجهزة كهربائية منزلية داكنة
+40202.0,Dépanneur d'équipements électroménager blanc,مصلح أجهزة كهربائية منزلية بيضاء
+40201.0,Dépanneur d'appareils électroménagers,مصلح أجهزة كهربائية منزلية
+40122.0,Technicien support en systèmes téléinformatiques,تقني دعم في مجال أنظمة الاتصالات عن بُعد
+40121.0,Technicien support en bureautique,تقني دعم في مجال التكنولوجيا المكتبية
+40120.0,Technicien en téléassistance en informatique,تقني في تقديم الدعم عن بُعد في مجال تكنولوجيا المعلومات
+40119.0,Technicien en réseau local informatique,تقني في شبكات الحوسبة المحلية
+40118.0,Technicien de service après-vente-SAVen bureautique,تقني خدمة ما بعد البيع (SAV) في مجال التكنولوجيا المكتبية
+40117.0,Technicien de maintenance en matériels informatiques,تقني صيانة في مجال تكنولوجيا المعدات المعلوماتية
+40116.0,Technicien de maintenance en matériel de bureau,تقني صيانة في مجال تكنولوجيا معدات المكتب
+40115.0,Technicien de maintenance en informatique,تقني صيانة في مجال تكنولوجيا المعلومات
+40114.0,Technicien de maintenance en bureautique,تقني صيانة في مجال التكنولوجيا المكتبية
+40113.0,Technicien de maintenance de systèmes informatiques,تقني صيانة أنظمة المعلومات
+40112.0,Technicien de maintenance de réseaux télématiques,تقني صيانة الشبكات التليماتيكية
+40111.0,Technicien de maintenance de réseaux informatiques,تقني صيانة الشبكات المعلوماتية
+40110.0,Support aux utilisateurs en informatique,دعم لمستخدمي تكنولوجيا المعلومات
+40109.0,Superviseur help desk en informatique,مشرف في المساعدة المعلوماتية
+40108.0,Responsable micro-informatique,مسؤول الإعلام الآلي
+40107.0,Responsable centre d'appels en maintenance informatique,مسؤول مركز الاتصال في الصيانة المعلوماتية
+40106.0,Agent de maintenance sur télécopieurs,عون صيانة معدات النسخ
+40105.0,Agent de maintenance sur systèmes d'impression et de reprographie,عون صيانة أنظمة الطبع والنسخ
+40104.0,Agent de maintenance en informatique,عون صيانة أنظمة المعلومات
+40103.0,Agent de maintenance en bureautique,عون الصيانة المكتبية
+40102.0,Agent de maintenance de matériels de reprographie,عون صيانة معدات الطبع
+40101.0,Agent de maintenance de machines de bureau,عون صيانة آلات المكتب
+30801.0,Coach sportif,مدرب رياضي
+30702.0,Paysagiste,منسق الحدائق
+30701.0,Jardinier(ère),بستاني
+30603.0,Assistant(e) aux rendez-vous médicaux,مساعد(ة) في المواعيد الطبية
+30602.0,Aide aux courses,مساعد(ة)  في التسوق
+30601.0,Chauffeur(se) de personnes,سائق(ة) للأفراد
+30503.0,Coach scolaire,مدرب مدرسي
+30502.0,Tuteur(trice) scolaire,معلم(ة) خصوصي(ة) مدرسي(ة)
+30501.0,Enseignant(e) particulier(e),مدرس(ة) خصوصي(ة)
+30403.0,Livraison de repas à domicile,توصيل الوجبات إلى المنزل
+30402.0,Chef à domicile,شَيف منزلي
+30401.0,Cuisinier(ère) à domicile,طباخ(ة) منزلي(ة)
+30303.0,Kinésithérapeute,أخصائي في العلاج طبيعي
+30302.0,Ergothérapeute,أخصائي في العلاج الوظيفي
+30301.0,Assistant(e) de vie,مساعد(ة) في الحياة
+30206.0,Accompagnateur/trice de personnes à mobilité réduite,مرافق/مرافقة للأشخاص ذوي الحركة المحدودة
+30205.0,Accompagnateur/trice de personnes âgées,مرافق/مرافقة لكبار السن
+30204.0,Aide à domicile,مساعد منزلي
+30203.0,Infirmier(ère) à domicile,ممرض/ممرضة منزلية
+30202.0,Aide-soignant(e),ممرض/ممرضة مساعدة
+30201.0,Auxiliaire de vie,مُرَافِق(ة) في الحَيَاة
+30104.0,Garde d'enfants malades,رعاية الأطفال المرضى
+30103.0,Garde d'enfants partagée,رعاية الأطفال المشتركة
+30102.0,Auxiliaire parentale,مساعدة الوالدين في رعاية الأطفال
+30101.0,Garde d'enfants,جليسة أطفال
+21911.0,Gérant(e) de résidence Airbnb ou autre plateforme de location de logements,مسير خدمات الاسكان أو أي منصة أخرى لتأجير أماكن الإقامة
+21910.0,Gestionnaire de réseaux sociaux pour des entreprises en ligne,مسير وسائل التواصل الاجتماعي لشركات عبر الإنترنت
+21909.0,Designer de produits sur des plateformes de crowdsourcing,مصمم منتجات على منصات التسويق التشاركي
+21908.0,Rédacteur(trice) / copywritter,كاتب / كاتب نصوص ترويجية
+21907.0,Graphiste freelance ,مصمم جرافيك مستقل
+21906.0,Technicien(ne) informatique à domicile,تقني في المعلوماتية عن بعد
+21905.0,Téléconseiller(ère) pour les plateformes de services en ligne,مستشار هاتفي لمنصات الخدمة عبر الإنترنت
+21904.0,Chargé(e) de la logistique d'une entreprise de livraison,مكلف باللوجستيات في شركة توصيل
+21903.0,Coursier(e) à moto,ساعي بواسطة دراجة نارية
+21902.0,Livreur à vélo ou à scooter,عامل توصيل بالدراجة أو السكوتر
+21901.0,Chauffeur VTC (voiture de transport avec chauffeur),سائق VTC (سيارة نقل مع سائق)
+21810.0,Webmaster,رئيس مواقع الويب (ويب ماستر)
+21809.0,Administrateur système informatique,مسؤول عن إدارة النظام المعلوماتي
+21808.0,Administrateur sécurité informatique,مسؤول عن إدارة الأمن الإعلامي
+21807.0,Administrateur réseauxtélécoms,مسؤول عن إدارة شبكات الاتصالات
+21806.0,Administrateur réseau informatique,مسؤول عن إدارة الشبكات الإعلامية
+21805.0,Administrateur de site Web,مسؤول عن إدارة مواقع الويب
+21804.0,Administrateur de site internet,مسؤول عن إدارة مواقع الإنترنت
+21803.0,Administrateur de serveurs,مسؤول عن إدارة الخوادم
+21802.0,Administrateur de la messagerie,مسؤول عن إدارة البريد الإلكتروني
+21801.0,Administrateur de bases de données,مسؤول عن إدارة قواعد المعطيات نظام المعلومات
+21712.0,Technicien système informatique,تقني في النظام المعلوماتي
+21711.0,Technicien réseau informatique,تقني في الشبكة المعلوماتية
+21710.0,Technicien informatique,تقني في الإعلام الآلي
+21709.0,Technicien d'exploitation système informatique,تقني تشغيل النظام المعلوماتي
+21708.0,Ingénieur support exploitation informatique,مهندس في وسائل استغلال الإعلام الآلي
+21707.0,Ingénieur exploitation système informatique,مهندس في استغلال النظام المعلوماتي
+21706.0,Ingénieur d'exploitation informatique,مهندس تشغيل الإعلام الآلي
+21705.0,Gestionnaire du parc informatique,مسير تجهيزات الإعلام الآلي
+21704.0,Gestionnaire de ressources matérielles informatiques,مسير الموارد المادية في الإعلام الآلي
+21703.0,Exploitant réseau informatique,مشغل الشبكة المعلوماتية
+21702.0,Exploitant informatique,مشغل في الإعلام الآلي
+21701.0,Chef de salle informatique,رئيس قاعة الإعلام الآلي
+21652.0,Testeur informatique,مختبر في الإعلام الآلي
+21651.0,Technicien programmation,تقني برمجة
+21650.0,Responsable d'étude informatique,مسؤول الدراسات في المعلوماتية
+21649.0,Responsable des développements informatiques,مسؤول التطوير في المعلوماتية
+21648.0,Responsable de projet informatique,مسؤول المشروع المعلوماتي
+21647.0,Responsable d'atelier de génie logiciel,مسؤول عن ورشة هندسة البرمجيات
+21646.0,Responsable d'application informatique,مسؤول عن التطبيقات في الإعلام الآلي
+21645.0,Programmeur jeux vidéo,مبرمج ألعاب الفيديو
+21644.0,Programmeur informatique,مبرمج في الإعلام الآلي
+21643.0,Paramétreur logiciel ERP,واضع معالم برنامج تخطيط موارد ERP المؤسسة
+21642.0,Lead programmeur jeux vidéo,مبرمج رئيسي في الألعاب الفيديو
+21641.0,Intégrateur de développement informatique,مدمج في تطوير الإعلام الآلي
+21640.0,Intégrateur d'application informatique,مدمج تطبيقات الإعلام الآلي
+21639.0,Ingénieur test composants informatique,مهندس اختبار مكونات الإعلام الآلي
+21638.0,Ingénieur intégration-validation informatique,مهندس في إدماج مكونات الإعلام الآلي
+21637.0,Ingénieur informaticien informaticienne,مهندس في الإعلام الآلي
+21636.0,Ingénieur d'intégration applicative,مهندس في إدماج مكونات الإعلام الآلي
+21635.0,Ingénieur d'étude informatique,مهندس الدراسات المعلوماتية
+21634.0,Ingénieur d'étude et développement informatique,مهندس الدراسات و التطوير المعلوماتي
+21633.0,Ingénieur de développement informatique,مهندس في التطوير المعلوماتي
+21632.0,Ingénieur de conception informatique,مهندس في التصميم المعلوماتي
+21631.0,Ingénieur d'application informatique,مهندس في تطبيقات الإعلام الآلي
+21630.0,Ingénieur analyste en système d'information,مهندس محلل في النظام المعلوماتي
+21629.0,Informaticien de développement,أخصائي في الإعلام الآلي مكلف بالدراسة
+21628.0,Informaticien d'application,أخصائي في تطوير المعلوماتية
+21627.0,Informaticien chargé d'étude,أخصائي في تطبيقات الإعلام الآلي
+21626.0,Développeur web,مطور مواقع الويب
+21625.0,Développeur multimédia,مطور في الوسائل الإعلام المتعددة
+21624.0,Développeur jeux vidéo,مطور ألعاب الفيديو
+21623.0,Développeur informatique,مطور المعلوماتية
+21622.0,Développeur ERP,مطور تخطيط موارد المؤسسة
+21621.0,Développeur décisionnelBusiness Intelligence,مطور في الذكاء المعلوماتي
+21620.0,Développeur d'application,مطور التطبيقات المعلوماتية
+21619.0,Concepteur logiciel informatique,مصمم البرمجيات المعلوماتية
+21618.0,Concepteur intégrateur informatique,مصمم مدمج مكونات الإعلام الآلي
+21617.0,Concepteur développeur web,مصمم مطور مواقع الويب
+21616.0,Concepteur développeur informatique,مصمم مطور في الإعلام الآلي
+21615.0,Chef de projet maîtrise d'oeuvre informatique,رئيس مشروع معلوماتي
+21614.0,Chef de projet étude et développement informatique,رئيس مشروع الدراسة و التطوير المعلوماتي
+21613.0,Assistant chef de projet informatique,مساعد رئيس مشروع في الإعلام الآلي
+21612.0,Analyste-programmeur informatique,محلل مبرمج في الإعلام الآلي
+21611.0,Analyste test informatique,محلل في الاختبار المعلوماتي
+21610.0,Analyste télématique,محلل المعلوماتية البعدية (تليماتيك)
+21609.0,Analyste réseau informatique,محلل شبكة الإعلام الآلي
+21608.0,Analyste organique informatique,محلل معمارية البرمجيات
+21607.0,Analyste fonctionnel informatique,محلل النظم المعلوماتية
+21606.0,Analyste développeur,محلل مطور البرامج المعلوماتية
+21605.0,Analyste designer informatique,محلل مصمم في المعلوماتية
+21604.0,Analyste décisionnelBusiness Intelligence,محلل في الذكاء المعلوماتي
+21603.0,Analyste de gestion informatique,محلل التسيير في الإعلام الآلي
+21602.0,Analyste d'application,محلل تطبيقات الإعلام الآلي
+21601.0,Analyste concepteur informatique,محلل مصمم في الإعلام الآلي
+21524.0,Technicien ingénierie réseaux de télécoms,تقني في هندسة شبكات الاتصالات
+21523.0,Technicien en installation et maintenance réseaux télécoms,تقني في تركيب وصيانة شبكات الاتصالات
+21522.0,Projeteur spécialisé réseaux télécoms,مهندس دراسات ومصمم شبكات الاتصالات
+21521.0,Marketeur réseaux de télécoms,رئيس خلية صيانة وإنتاج الاتصالات
+21520.0,Ingénieur validation réseaux de télécoms,مهندس المصادقة على شبكات الاتصالات
+21519.0,Ingénieur télécoms,مهندس اتصالات
+21518.0,Ingénieur télécommunication,مهندس الاتصالات اللاسلكية
+21517.0,Ingénieur supervision réseaux télécoms sous-marins,مهندس الإشراف على شبكات الاتصالات تحت سطح المياه
+21516.0,Ingénieur supervision réseaux télécoms,مهندس في الإشراف على شبكات الاتصالات
+21515.0,Ingénieur réseaux télécoms,مهندس شبكات الاتصالات
+21514.0,Ingénieur radio,مهندس راديو
+21513.0,Ingénieur en architecture télécoms,مهندس في معمارية الاتصالات
+21512.0,Ingénieur déploiement télécoms,مهندس نشر الاتصالات
+21511.0,Ingénieur déploiement réseaux télécoms urbains,مهندس نشر شبكات الاتصالات الحضرية
+21510.0,Ingénieur déploiement maintenance réseaux télécoms,مهندس نشر وصيانة شبكات الاتصالات
+21509.0,Ingénieur d'études et support télécoms,مهندس الدراسات ووسائل الاتصالات
+21508.0,Ingénieur d'études et conception réseaux télécoms,مهندس دراسات وتصميم شبكات الاتصالات
+21507.0,Consultant télécoms,استشاري الاتصالات
+21506.0,Chef de projet télécoms,رئيس مشروع الاتصالات
+21505.0,Chargé réseaux télécoms sous-marins,مكلف بشبكات الاتصالات تحت سطح المياه
+21504.0,Chargé d'opération réseaux de télécoms,مكلف بعمليات شبكات الاتصالات
+21503.0,Chargé d'études et conception réseaux télécoms,مكلف بالدراسات وتصميم شبكات الاتصالات
+21502.0,Chargé de planification réseaux de télécoms,مكلف بتخطيط شبكات الاتصالات
+21501.0,Architecte réseaux de télécoms,مهندس شبكات الاتصالات
+21421.0,Urbaniste des systèmes d'information,مهندس أنظمة المعلومات
+21420.0,Responsable qualité des systèmes d'information,مدير جودة أنظمة المعلومات
+21419.0,Responsable de projets « métiers » systèmes d'information,مدير مشروع أنظمة المعلومات لعمليات الأعمال
+21418.0,"Responsable architecture, urbanisme et veille technologie IT",مدير هندسة التكنولوجيا والتخطيط التكنولوجي
+21417.0,Maître d'ouvrage systèmes d'information,صاحب الأعمال أنظمة المعلومات
+21416.0,Gestionnaire d'applications systèmes d'information,مدير تطبيقات أنظمة المعلومات
+21415.0,Expert métier systèmes d'information,خبير في مجال أنظمة المعلومات
+21414.0,Coordinateur de la maîtrise d'ouvrage des systèmes d'information,منسق متطلبات أنظمة المعلومات
+21413.0,Consultant réseaux informatiques,استشاري شبكات الإعلام الآلي
+21412.0,Consultant informatique,استشاري الإعلام الآلي
+21411.0,Consultant fonctionnel des systèmes d'information,استشاري وظائف أنظمة المعلومات
+21410.0,Consultant –ERP,استشاري في تخطيط موارد المؤسسة ERP
+21409.0,Consultant en systèmes d'information,استشاري في أنظمة المعلومات
+21408.0,Consultant en gestion de la relation client GRC/CRM,استشاري في إدارة العلاقات مع الزبائن GRC/CRM
+21407.0,Consultant décisionnel,استشاري ذكاء الأعمال
+21406.0,Chef de projet maîtrise d'ouvrage des systèmes d'information,مدير مشروع أنظمة المعلومات
+21405.0,Chef de projet maîtrise d'ouvrage-MOA,مدير مشروع تكنولوجيا المعلومات
+21404.0,Assistant maîtrise d'ouvrage des systèmes d'information,محلل أعمال أنظمة المعلومات
+21403.0,Architecte systèmes et réseaux,مهندس أنظمة وشبكات
+21402.0,Architecte fonctionnel de systèmes d'information,مهندس وظائف أنظمة المعلومات
+21401.0,Architecte des systèmes d'information,مهندس أنظمة المعلومات
+21319.0,Responsable sécurité informatique,مسؤول أمن المعلومات
+21318.0,Ingénieur système réseau informatique,مهندس نظام الشبكة المعلوماتية
+21317.0,Ingénieur système informatique,مهندس نظام المعلومات
+21316.0,Ingénieur sécurité informatique,مهندس أمن المعلومات
+21315.0,Ingénieur réseau informatique,مهندس شبكة المعلومات
+21314.0,Ingénieur méthodes informatiques,مهندس أساليب المعلومات
+21313.0,Expert système et réseaux,خبير في أنظمة وشبكات المعلومات
+21312.0,Expert sécurité informatique,خبير في أمن المعلومات
+21311.0,Expert réseaux et télécoms,خبير في الشبكات والاتصالات
+21310.0,Expert méthodes et qualité informatique,خبير في أساليب وجودة المعلومات
+21309.0,Expert en technologie Internet et multimédia,خبير في تكنولوجيا الإنترنت ووسائل الإعلام المتعددة
+21308.0,Auditeur en systèmes d'information,مدقق نظام المعلومات
+21307.0,Architecte systèmes d'information,مهندس نظام المعلومات
+21306.0,Architecte système informatique,مهندس الأنظمة المعلوماتية
+21305.0,Architecte réseaux informatiques,مهندس الشبكات المعلوماتية
+21304.0,Architecte réseau et sécurité,مهندس في الشبكات والسلامة المعلوماتية
+21303.0,Architecte multimédia,مهندس في وسائل الإعلام المتعددة
+21302.0,Architecte de données informatiques,مهندس المعطيات المعلوماتية
+21301.0,Architecte de bases de données,مهندس قاعدة البيانات المعلوماتية
+21210.0,Éditeur(trice) de contenu pédagogique en ligne,محرر المحتوى التعليمي عبر الإنترنت
+21209.0,Spécialiste en apprentissage en ligne,متخصص في التعلم عبر الإنترنت
+21208.0,Responsable de la conception de programmes de formation en ligne,مسؤول عن تصميم البرامج التعليمية عبر الإنترنت
+21207.0,Ingénieur(e) pédagogique numérique,مهندس تعليم رقمي
+21206.0,Analyste de données de l'éducation en ligne,محلل بيانات التعليم عبر الإنترنت
+21205.0,Développeur(se) de contenu de formation en ligne,مطور محتوى التعليم عبر الإنترنت
+21204.0,Spécialiste en technologie de l'éducation,أخصائي تكنولوجيا التعليم
+21203.0,Responsable de la formation en ligne,مدير التعليم عبر الإنترنت
+21202.0,Concepteur(trice) de programmes de formation en ligne,مصمم برامج التعليم عبر الإنترنت
+21201.0,Enseignant(e) en ligne,مدرس على الانترنت
+21110.0,Consultant(e) en stratégie e-commerce,مستشار استراتيجية التجارة الإلكترونية
+21109.0,Spécialiste en logistique e-commerce,متخصص في الخدمات اللوجستية للتجارة الإلكترونية
+21108.0,Analyste de performance e-commerce,محلل أداء التجارة الإلكترونية
+21107.0,Gestionnaire de campagnes publicitaires e-commerce,مدير الحملة الإعلانية للتجارة الإلكترونية
+21106.0,Analyste de marché e-commerce,محلل سوق التجارة الإلكترونية
+21105.0,Spécialiste en gestion de la relation client en ligne,متخصص في إدارة علاقات العملاء عبر الإنترنت
+21104.0,Spécialiste en optimisation de la conversion,أخصائي تحسين التحويل
+21103.0,Développeur(se) de sites e-commerce,مطور مواقع التجارة الإلكترونية
+21102.0,Analyste e-commerce,محلل التجارة الإلكترونية
+21101.0,Marketeur e-commerce,مسوق التجارة الالكترونية
+21010.0,Architecte de solutions multicloud,مهندس الحلول السحابية المتعددة
+21009.0,Ingénieur(e) en orchestration de conteneurs,مهندس تنظيم الحاويات
+21008.0,Ingénieur(e) DevOps,مهندس ديف أوبس DevOps
+21007.0,Développeur(se) cloud,مطور السحابة
+21006.0,Spécialiste en gestion de données cloud,أخصائي إدارة البيانات السحابية
+21005.0,Spécialiste en sécurité cloud,أخصائي الأمن السحابي
+21004.0,Consultant(e) en migration vers le cloud,مستشار الهجرة السحابية
+21003.0,Administrateur(trice) de système cloud,مسؤول النظام السحابي
+21002.0,Architecte de solutions cloud,مهندس الحلول السحابية
+21001.0,Ingénieur(e) cloud,مهندس السحابة
+20910.0,Chercheur(euse) en cybersécurité,باحث في الأمن السيبراني 
+20909.0,Spécialiste en conformité réglementaire en sécurité,أخصائي التطابق التنظيمي في مجال الامن السيبراني
+20908.0,Spécialiste en analyse de risques,أخصائي تحليل المخاطر
+20907.0,Auditeur(trice) en sécurité informatique,مدقق أمن تكنولوجيا المعلومات
+20906.0,Spécialiste en gestion des identités et des accès,أخصائي في مجال الهويات والتصريح بالدخول
+20905.0,Spécialiste en sécurité des systèmes,أخصائي أمن الأنظمة
+20904.0,Ingénieur(e) en sécurité informatique,مهندس أمن تكنولوجيا المعلومات
+20903.0,Expert(e) en sécurité des réseaux,خبير أمن الشبكات
+20902.0,Responsable de la sécurité de l'information,مسؤول الأمن المعلوماتي
+20901.0,Analyste de la cybersécurité,محلل الأمن السيبراني
+20810.0,Spécialiste en visualisation de données,أخصائي تصور البيانات
+20809.0,Spécialiste en stockage de données,أخصائي تخزين البيانات
+20808.0,Spécialiste en exploration de données,أخصائي استخراج البيانات
+20807.0,Ingénieur(e) de données,مهندس بيانات
+20806.0,Data engineer,مهندس تطوير بيانات
+20805.0,Data analyst,محلل بيانات
+20804.0,Data scientist,عالم البيانات
+20803.0,Architecte de solutions Big Data,مهندس حلول البيانات الضخمة
+20802.0,Analyste de données massives,محلل البيانات الضخمة
+20801.0,Ingénieur(e) en big data,مهندس بيانات ضخمة
+20710.0,Développeur(se) de systèmes d'intelligence artificielle,مطور أنظمة الذكاء الاصطناعي
+20709.0,Développeur(se) de chatbot,مطور الشات بوت Chat-bot 
+20708.0,Spécialiste en reconnaissance vocale,أخصائي التعرف على الصوت
+20707.0,Spécialiste en vision par ordinateur,أخصائي في تقنية الرؤية الحاسوبية
+20706.0,Chercheur(euse) en intelligence artificielle,باحث في الذكاء الاصطناعي
+20705.0,Architecte de solutions en intelligence artificielle,مهندس حلول الذكاء الاصطناعي
+20704.0,Ingénieur(e) en apprentissage automatique,مهندس التعلم الآلي
+20703.0,Ingénieur(e) en traitement du langage naturel,مهندس معالجة اللغات الطبيعية
+20702.0,Ingénieur(e) en deep learning,مهندس التعلُّم العميق 
+20701.0,Ingénieur(e) en machine learning,التعلم الآلي
+20609.0,Ingénieur(e) en traitement de la langue naturelle,مهندس في معالجة اللغات الطبيعية
+20608.0,Ingénieur(e) de la vision par ordinateur,مهندس رؤية الكمبيوتر
+20607.0,Ingénieur(e) IoT (Internet des Objets),مهندس إنترنت الأشياء (إنترنت الأشياء)
+20606.0,Développeur(se) de jeux vidéo,مطور ألعاب فيديو
+20605.0,Développeur(se) de réalité augmentée,مطور الواقع المعزز
+20604.0,Développeur(se) de blockchain,مطور Blockchain
+20603.0,Ingénieur(e) en robotique,مهندس الروبوتات
+20602.0,Spécialiste en réalité virtuelle,متخصص في الواقع الافتراضي
+20601.0,Ingénieur(e) en intelligence artificielle,مهندس الذكاء الاصطناعي
+20511.0,Spécialiste en service après-vente,اخصائي خدمات ما بعد البيع
+20510.0,Spécialiste en fidélisation de la clientèle,أخصائي ولاء العملاء
+20509.0,Analyste des performances de service client,محلل أداء خدمة العملاء
+20508.0,Gestionnaire de projet de service client,مدير مشروع خدمة العملاء
+20507.0,Spécialiste de l'expérience client,أخصائي تجربة العملاء
+20506.0,Spécialiste en relations publiques en ligne,أخصائي العلاقات العامة عبر الإنترنت
+20505.0,Gestionnaire de contenu en ligne,مدير المحتوى عبر الإنترنت
+20504.0,Community manager,مسير محتوى عبر الأنترنيت
+20503.0,Spécialiste en vente en ligne,متخصص في المبيعات عبر الإنترنت
+20502.0,Spécialiste en communication client,أخصائي اتصالات العملاء
+20501.0,Spécialiste du support technique,أخصائي دعم تقني
+20411.0,Analyste de la cybersécurité,محلل الأمن السيبراني
+20410.0,Architecte de solutions Cloud,مهندس الحلول السحابية
+20409.0,Développeur(se) agile,مطور البرمجيات اللينة
+20408.0,Scrum master,خبير سكروم scrum
+20407.0,Chef(fe) de projet numérique,مدير مشروع رقمي
+20406.0,Administrateur(trice) de base de données,مسؤول قاعدة البيانات 
+20405.0,Analyste en sécurité informatique,محلل أمن تكنولوجيا المعلومات
+20404.0,Analyste de la performance du site web,محلل أداء الموقع
+20403.0,Consultant(e) en transformation numérique,استشاري في التحول الرقمي
+20402.0,Gestionnaire de projet informatique,مدير مشروع تكنولوجيا المعلومات
+20401.0,Analyste de données,محلل بيانات
+20312.0,Spécialiste en stratégie de contenu,متخصص في استراتيجية المحتوى
+20311.0,Planificateur(trice) de campagnes publicitaires numériques,مخطط حملات الإعلان الرقمي
+20310.0,Consultant(e) en marketing numérique,استشاري التسويق الرقمي
+20309.0,Analyste de données marketing,محلل بيانات التسويق
+20308.0,Responsable marketing digital,مسؤول التسويق الرقمي
+20307.0,Spécialiste en marketing d'influence,متخصص في تسويق التأثير
+20306.0,Spécialiste en publicité en ligne,متخصص في الإعلان عبر الإنترنت
+20305.0,Spécialiste en marketing sur les réseaux sociaux,متخصص في التسويق على وسائل التواصل الاجتماعي
+20304.0,Spécialiste en marketing par e-mail,متخصص في التسويق عبر البريد الإلكتروني
+20303.0,Spécialiste en référencement payant (SEA),مُتخصّص في التحسين المدفوع لمحركات البحث (SEA)
+20302.0,Spécialiste en référencement naturel (SEO),مُتخصّص في التحسين الطبيعي لمحركات البحث (SEO)
+20301.0,Créateur de contenu sur les réseaux sociaux,صانع محتوى على وسائل التواصل الاجتماعي
+20210.0,Designer d'interfaces utilisateur pour l'IA,مصمم واجهة المستخدم بالذكاء الاصطناعي (IA)
+20209.0,Designer de produits numériques,مصمم المنتجات الرقمية
+20208.0,Designer 3D,مصمم ثلاثي الابعاد (3D)
+20207.0,Designer de jeux vidéo,مصمم لعبة فيديو
+20206.0,Motion designer,مصمم الحركة
+20205.0,Infographiste,مصمم انفوجرافيك
+20204.0,Illustrateur(trice),مصمم صور
+20203.0,Designer web,مصمم ويب
+20202.0,Designer UX/UI,مصمم تجربة المستخدم/واجهة المستخدم (UI/UX) 
+20201.0,Designer graphique,مصمم جرافيك
+20113.0,Développeur(se) Swift,مطور Swift
+20112.0,Développeur(se) Ruby,مطور Ruby
+20111.0,Développeur(se) JavaScript,مطور JavaScript
+20110.0,Développeur(se) C++,مطور C++
+20109.0,Développeur(se) PHP,مطور PHP
+20108.0,Développeur(se) Java,مطور Java
+20107.0,Développeur(se) Python,مطور Python
+20106.0,Développeur(se) back-end,مطور الخلفية
+20105.0,Développeur(se) front-end,مطور واجهة المستخدم
+20104.0,Développeur(se) full-stack,مطور متعدد المهام Full-stack 
+20103.0,Développeur(se) logiciel,مطور برمجيات
+20102.0,Développeur(se) mobile,مطور تطبيقات الجوال
+20101.0,Développeur(se) web,مطور ويب
+11118.0,Protectionniste principal superviseur en météorologie,مشرف رئيسي على الوقاية في الأرصاد الجوية
+11117.0,Protectionniste principal de la météorologie aéronautique,مكلف رئيسي بالوقاية في الأرصاد الجوية للطيران
+11116.0,Protectionniste assistance en météorologie,مكلف بالوقاية في الأرصاد الجوية للمساعدة
+11115.0,Protectionniste aéronautique en météorologie,مكلف بالوقاية في الأرصاد الجوية للطيران
+11114.0,Prévisionniste principal médias en météorologie,مُتنبأ جوي رئيسي لوسائل الإعلام
+11113.0,Prévisionniste principal assistance en météorologie,مُتنبأ جوي رئيسي للمساعدة في الأرصاد الجوية
+11112.0,Prévisionniste principal aéronautique en météorologie,مُتنبأ جوي رئيسي للطيران
+11111.0,Prévisionniste médias en météorologie,مُتنبأ جوي لوسائل الإعلام
+11110.0,Prévisionniste général en météorologie,مُتنبأ جوي عام
+11109.0,Prévisionniste assistance régionale en météorologie,مُتنبأ جوي إقليمي للمساعدة في الأرصاد الجوية
+11108.0,Prévisionniste assistance en météorologie,مُتنبأ جوي للمساعدة في الأرصاد الجوية
+11107.0,Prévisionniste aéronautique régional en météorologie,مُتنبأ جوي إقليمي للطيران
+11106.0,Prévisionniste aéronautique en météorologie,مُتنبأ جوي للطيران
+11105.0,Observateur principal instructeur en météorologie,ملاحظ جوي رئيسي مدرب في الأرصاد الجوية
+11104.0,Observateur météorologique principal,ملاحظ جوي رئيسي
+11103.0,Contrôleur d'observations météorologiques,مُراقب للملاحظات الجوية
+11102.0,Assistant technique de climatologie,مساعد فني في علم المناخ
+11101.0,Archiviste climatologique,مكلف بأرشيف البيانات المناخية
+11004.0,Technicien supérieur en topographie et géodésie,تقني سامي في الطبوغرافيا والمساحة التطبيقية (الجيوديسيا)
+11003.0,Technicien chargé des opérations de travaux cartographiques,تقني مكلف بعمليات الأشغال الخرائطية
+11002.0,Opérateur photogrammètre,عامل المسح التصويري
+11001.0,Ingénieur chargé de travaux cartographiques,مهندس مكلف بالأعمال الخرائطية
+10907.0,Ingénieur financier,مهندس مالي
+10906.0,Ingénieur opérations bourse,مهندس في تداولات البورصة
+10905.0,Economiste de marché financier,اخصائي اقتصادي في السوق المالي
+10904.0,Analyste risques financiers,محلل المخاطر المالية
+10903.0,Analyste marché financier,محلل السوق المالي
+10902.0,Analyste financier,محلل مالي
+10901.0,Analyste économique,محلل اقتصادي
+10804.0,Consultant en communication,استشاري في الاتصالات
+10803.0,Assistant relations publiques,مساعد في العلاقات العامة
+10802.0,Assistant relations presse,مساعد في العلاقات الصحفية
+10801.0,Assistant de communication,مساعد في الاتصالات
+10742.0,Technicien minéralogiste,تقني في جيولوجيا المعادن
+10741.0,Technicien géophysique,تقني جيوفيزيائي
+10740.0,Technicien géologue,تقني جيولوجي
+10739.0,Technicien en valorisation géologique,تقني في التقييم الجيولوجي
+10738.0,Technicien analyse en exploration pétrolière,تقني في تحليل الاستكشافات النفطية
+10737.0,Superviseur géophysique,مشرف جيوفيزيائي
+10736.0,Superviseur géologue,مشرف جيولوجي
+10735.0,Sondeur géologue,اخصائي في السبر الجيولوجي
+10734.0,Sismologue,اخصائي في علم الزلازل
+10733.0,Séismologue,عالم الزلازل
+10732.0,Pétrographe,اخصائي في الصخور الجيولوجية
+10731.0,Minérallurgiste,اخصائي في جيولوجيا المعادن
+10730.0,Ingénieur spécialiste en géophysique,مهندس خبير في الجيوفيزياء
+10729.0,Ingénieur spécialiste en géologie,مهندس خبير في الجيولوجيا
+10728.0,Ingénieur réservoir,مهندس في خزانات انتاج النفط
+10727.0,Ingénieur hydrogéologue,مهندس هيدروجيولوجي
+10726.0,Ingénieur géotechnicien,مهندس جيوتقني
+10725.0,Ingénieur géophysicien,مهندس جيوفيزيائي
+10724.0,Ingénieur géologue,مهندس جيولوجي
+10723.0,Ingénieur expert en valorisation géologique,مهندس خبير في التقييم الجيولوجي
+10722.0,Ingénieur expert en géophysique,مهندس خبير في الجيوفيزياء
+10721.0,Ingénieur expert en géologie,مهندس خبير في الجيولوجيا
+10720.0,Ingénieur des réservoirs et des boues,مهندس في خزانات انتاج النفط والطين
+10719.0,"Ingénieur d’études en minéralogie, pétrographie",مهندس دراسات المعادن والصخور
+10718.0,Ingénieur d’études en hydrogéologie,مهندس دراسات في الهيدروجيولوجيا
+10717.0,Ingénieur d’études en géophysique,مهندس دراسات في الجيوفيزياء
+10716.0,Ingénieur d’application en valorisation géologique,مهندس تطبيقي في التقييم الجيولوجي
+10715.0,"Ingénieur d’application en minéralogie, pétrographie",مهندس تطبيقي في علم المعادن والصخور
+10714.0,Ingénieur d’application en hydrogéologie,مهندس تطبيقي في الهيدروجيولوجيا
+10713.0,Ingénieur d’analyse en exploration pétrolière,مهندس في تحليل الاستكشافات النفطية
+10712.0,Hydrologue,هيدرولوجي
+10711.0,Hydrogéologue,هيدروجيولوجي
+10710.0,Géotechnicien,جيوتقني
+10709.0,Géophysicien,جيوفيزيائي
+10708.0,Géologue prospecteur,جيولوجي في التنقيب
+10707.0,Géologue pétrolier,جيولوجي البترول
+10706.0,Géologue minier,جيولوجي المناجم
+10705.0,Géologue en recherche prospective,جيولوجي في البحث الاستشرافي
+10704.0,Géologue de chantier,جيولوجي ورشات البناء
+10703.0,Géologue,جيولوجي
+10702.0,Géodésien,اخصائي في الجيوديسيا ومسح الأراضي
+10701.0,Géochimiste,جيوكيميائي
+10618.0,Technicien principal maintenance poste électrique,تقني رئيسي في صيانة مركز كهربائي
+10617.0,Technicien principal études et surveillance des travaux électricité,تقني رئيسي في الدراسات ومراقبة أشغال الكهرباء
+10616.0,Surveillant chantier télécom,مراقب ورشة اتصالات
+10615.0,Superviseur télécom,مشرف على الاتصالات
+10614.0,Poseur tireur de câbles en fibre optique,عامل في تركيب وسحب أسلاك الألياف البصرية
+10613.0,Ouvrier qualifié caténaire,عامل مؤهل في تركيب أسلاك القطار الكهربائي
+10612.0,Ouvrier professionnel hors catégorie en éclairage public,عامل مهني خارج التصنيف في الإنارة العمومية
+10611.0,Opérateur réseau télécom,عامل على شبكة اتصالات
+10610.0,Monteur de réseaux électriques,مركب الشبكات الكهربائية
+10609.0,Monteur de caténaires,مركب أسلاك القطارات الكهربائية
+10608.0,Monteur câbleur réseau électrique,مركب أسلاك الشبكة الكهربائية
+10607.0,Electricien en balisage,كهربائي في الإشارات العمومية
+10606.0,Electricien de distribution,كهربائي في توزيع الشبكات
+10605.0,Electricien d'éclairage public,كهربائي في الإنارة العمومية
+10604.0,Câblier réseau électrique,مركب أسلاك الشبكة الكهربائية
+10603.0,Aide électricien monteur réseaux,مساعد كهربائي في تركيب الشبكات
+10602.0,Agent répartiteur en télécom,عون توزيع شبكات الاتصالات
+10601.0,Agent de maitrise en éclairage public,عون تحكم في الإنارة العمومية
+10505.0,Technicien principal de conduite de centrale électrique,تقني رئيسي في قيادة محطة كهربائية
+10504.0,Technicien de conduite auxiliaire,تقني ملحق في قيادة محطة كهربائية
+10503.0,Rondier en production d'énergie,عون دورية في إنتاج الطاقة
+10502.0,Opérateur d'exploitation en production d'énergie,عامل استغلال في إنتاج الطاقة
+10501.0,Ingénieur de production électrique,مهندس إنتاج كهربائي
+10432.0,Elaïologue,خبير في الزيوت الغذائية 
+10431.0,Technicien production animale,تقني في الإنتاج الحيواني
+10430.0,Technicien forestier,تقني في الغابات
+10429.0,Technicien du génie rural,تقني في الهندسة الريفية
+10428.0,Ingénieur paysagiste,مهندس تنسيق الحدائق
+10427.0,Ingénieur horticole,مهندس في مصائد الأسماك
+10426.0,Ingénieur halieute,مهندس في صيد الأسماك
+10425.0,Ingénieur forestier,مهندس غابي
+10424.0,Ingénieur en technologie alimentaire,مهندس في التكنولوجيا الغذائية
+10423.0,Ingénieur en irrigation agricole,مهندس السقي الزراعي
+10422.0,Ingénieur en expérimentation végétale,مهندس التجارب النباتية
+10421.0,Ingénieur en expérimentation animale,مهندس في التجارب الحيوانية
+10420.0,Ingénieur du génie rural,مهندس في الهندسة الريفية
+10419.0,Ingénieur des forêts,مهندس الغابات
+10418.0,Ingénieur d'application agricole,مهندس التطبيقات الزراعية
+10417.0,Ingénieur d'aménagement rural,مهندس التهيئة الريفية
+10416.0,Ingénieur arboricole,مهندس في البستنة
+10415.0,Ingénieur agronome,مهندس زراعي
+10414.0,Expert en aquaculture,خبير في ميدان الصيد
+10413.0,Expert cynégétique,خبير في تربية الأحياء المائية 
+10412.0,Expert agricole et foncier,خبير فلاحي وعقاري
+10411.0,Expérimentateur en agriculture,مختبر في الزراعة
+10410.0,Conservateur principal en agriculture,محافظ رئيسي في الزراعة
+10409.0,Chargé d'études en développement rural,مكلف بالدراسات في التنمية الريفية
+10408.0,Chargé d'études en développement agricole,مكلف بالدراسات في التطوير الزراعي
+10407.0,Chargé d'études économiques en agriculture,مكلف بالدراسات الاقتصادية في الزراعة
+10406.0,Chargé de recherche en agriculture,مكلف بالبحوث الزراعية
+10405.0,Chargé de mission en agriculture,مكلف بمهمة في الزراعة
+10404.0,Chargé d'études en environnement,مكلف بالدراسات البيئية
+10403.0,Animateur communal de vulgarisation agricole,منسق مجتمعي للتوعية الزراعية
+10402.0,Agroéconomiste,اقتصادي زراعي
+10401.0,Agent technique d'assistance et de conseil agricole,عامل تقني في المساعدة والاستشارة الفلاحية
+10309.0,Testeur de produits de consommation,مختبر مواد استهلاكية
+10308.0,Superviseur d'enquêteurs,مشرف على المحققين
+10307.0,Responsable d'enquêtes terrain,مسؤول التحقيقات الميدانية
+10306.0,Enquêteur sur terrain,محقق ميداني
+10305.0,Enquêteur sondage,محقق سبر الآراء
+10304.0,Directeur d'enquêtes administration et technique,مدير التحقيقات الإدارية والتقنية
+10303.0,Contrôleur d'équipe d'enquêteurs,مراقب فريق المحققين
+10302.0,Agent technique en statistique,عون تقني في الاحصاء
+10301.0,Agent recenseur,عون احصاء
+10220.0,Statisticien,احصائي
+10219.0,Responsable prévision des ventes,مسؤول المبيعات المتوقعة
+10218.0,Responsable d'études socio-économiques,مسؤول الدراسات الاجتماعية – الاقتصادية
+10217.0,Responsable d'études économiques,مسؤول الدراسات الاقتصادية
+10216.0,Responsable de veille stratégique,مسؤول الحرص الاستراتيجي
+10215.0,Ingénieur statisticien,مهندس احصائي
+10214.0,Ingénieur économiste en entreprise,مهندس اقتصادي في مؤسسة
+10213.0,Economètre,خبير في الاقتصاد القياسي
+10212.0,Directeur d'études économiques,مدير الدراسات الاقتصادية
+10211.0,Chargé d'études statistiques,مكلف بالدراسات الإحصائية
+10210.0,Chargé d'études socio-économiques,مكلف بالدراسات الاجتماعية – الاقتصادية
+10209.0,Chargé d'études satisfaction,مكلف بالدراسات الخاصة برضا الزبون
+10208.0,Chargé d'études prospectives,مكلف بالدراسات التوقعية
+10207.0,Chargé d'études financières,مكلف بالدراسات المالية
+10206.0,Chargé d'études en marketing,مكلف بالدراسات في التسويق
+10205.0,Chargé d'études économiques,مكلف بالدراسات الاقتصادية
+10204.0,Chargé d'études de marché,مكلف بدراسات السوق
+10203.0,Chargé d'études commerciales,مكلف بالدراسات التجارية
+10202.0,Charge de mission synthèse et statistique,مكلف بمهمة التلخيص والإحصاء
+10201.0,Chargé de mission études d'impact,مكلف بمهمة دراسات التأثيرات
+10121.0,Intervenant en prévention des risques professionnels,متدخل في الوقاية من المخاطر المهنية
+10120.0,Ingénieurconseil en organisation,مهندس-مستشار في التنظيم
+10119.0,Ingénieurconseil en management,مهندس-مستشار في الإدارة
+10118.0,Ingénieur en organisation,مهندس في التنظيم
+10117.0,Consultant pilotage de la performance,مستشار مختص في قيادة حسن الأداء
+10116.0,Consultant ergonome,مستشار مختص في تحسين محيط العمل
+10115.0,Consultant en stratégie/organisation,مستشار مختص في استراتيجية/تنظيم
+10114.0,Consultant en organisation et management,مستشار مختص في التنظيم وإدارة الأعمال
+10113.0,Consultant en organisation,مستشار مختص في التنظيم
+10112.0,Consultant en management qualité,مستشار مختص في إدارة الجودة
+10111.0,Consultant en management,مستشار مختص في إدارة الأعمال
+10110.0,Consultant en intelligence économique,مستشار في الذكاء الاقتصادي
+10109.0,Conseiller en organisation d'entreprise,مستشار في تنظيم المؤسسة
+10108.0,Conseiller en conduite du changement,مستشار في قيادة التغيير
+10107.0,Auditeur social,مدقق اجتماعي
+10106.0,Auditeur qualité services,مدقق في جودة الخدمات
+10105.0,Auditeur organisationnel,مدقق في التنظيم
+10104.0,Auditeur en organisation,مدقق تنظيمي
+10103.0,Assistant en organisation,مساعد في التنظيم
+10102.0,Animateur qualité services,منشط في جودة الخدمات
+10101.0,Animateur de réseau d'entreprises,منشط شبكة المؤسسات
+10100.0,Conseils en organisation et management d'entreprise,الاستشارة في تنظيم وادارة المؤسسة
+10122.0,Consultant / Analyste en Business Développement,مستشار/محلل تطوير الأعمال
+10123.0,Editeur de contenue pédagogique en ligne,ناشر المحتوى التعليمي عبر الإنترنت
+10124.0,Formateur expert en mécatronique auto,مكون خبير في ميكاترونيات السيارات
+10125.0,"Formateur aux métiers de la sécurité, option sécurité incendie et option sécurité privée",مكون في المهن الأمنية، تخصص السلامة من الحرائق وتخصص الأمن الخاص
+10126.0,Conseil en développement durable et RSE (Responsabilité Sociétale des Entreprises),مستشار في التنمية المستدامة والمسؤولية الاجتماعية للشركات
+10127.0,Formateur et conseiller dans le domaine QHSE,مكون ومستشار في مجال الجودة والنظافة والسلامة والبيئة
+10128.0,Formateur en assurance / management de la qualité,مكون في التأمينات وضمان الجودة
+10129.0,Conseil expert en RH et stratégie,مستشار خبير في الموارد البشرية والاستراتيجية
+10130.0,Consultant en Service Informatique,استشاري في خدمات الإعلام الآلي
+10131.0,Formateur en logiciels de comptabilité,مكون في برمجيات المحاسبة
+10132.0,Conseiller en domotique,مستشار في التشغيل الآلي للمنازل
+10133.0,Gestionnaire de secrétariat,مسير أمانة (سكريتاريا)
+10134.0,Consultant en Achat / Approvisionnement et sourcing,استشاري مشتريات وتوريد
+10135.0,Formateur en développement professionnel,مكون في التطوير المهني
+10200.0,Études et prospectives socio-économiques,الدراسات والاستشراف الاجتماعي الاقتصادي
+10221.0,Consultant en logistique,استشاري لوجستي
+10222.0,Consultant en commerce international,استشاري في التجارة الدولية
+10223.0,Consultant Technico-commercial,استشاري تقني- تجاري
+10400.0,Ingénierie et assistance technique en agriculture et environnement,الهندسة والمساعدة التقنية في مجال الزراعة والبيئة
+10433.0,Consultant en agro développement,استشاري في التنمية الزراعية
+10434.0,Conseiller en architecture durable et en ingénierie environnementale,استشاري في الهندسة المعمارية المستدامة والهندسة البيئية
+10435.0,Formateur en qualité agroalimentaire,مكون في جودة الأغذية الزراعية
+10436.0,Assistant d'agriculteur,مساعد مزارع
+10437.0,Spécialiste en élevage d’abeilles,أخصائي تربية النحل
+10438.0,"Grimpeurs de palmiers, dattiers et autres",متسلق نخيل وأشجار أخرى
+10439.0,Hirudiniculteur,مربّي العلقات
+10440.0,Opérateur d'abattoir mobile et de machine d'abattage,مشغل المذبح المتنقل وآلات الذبح
+10600.0,Montage réseaux électriques et télécoms,تركيب الشبكات الكهربائية والاتصالات
+10619.0,Consultant en Voirie & Réseaux Divers (VRD),استشاري في الطرق والشبكات المتنوعة
+10800.0,Relations publiques et communication,العلاقات العامة والاتصالات
+10805.0,Formateur en interpersonnel,مكون في العلاقات الشخصية
+10806.0,Consultant et assistant en communication graphique,مستشار ومساعد في التواصل الجرافيكي
+10807.0,Représentant commercial,مندوب مبيعات
+10808.0,Agent de recouvrement de créances,وكيل تحصيل الديون
+10900.0,Etudes et analyses financières,الدراسة والتحليل المالي
+10908.0,Directeur Financier (CFO),مدير مالي
+10909.0,Conseiller en investissement,مستشار في الاستثمار
+10910.0,Accompagnateur en assurance,مرشد تأمين
+10911.0,Consultant en Import-export,استشاري تصدير واستيراد
+11200.0,Formations et Conseils Techniques et Industriels,تكوين واستشارة تقنية وصناعية
+11201.0,Formateur en logiciels,مكون برمجيات
+11202.0,Formation en maintenance automobile,مكون صيانة المركبات
+11203.0,Formateur BIM (Building information modeling),مكون نمذجة معلومات المباني
+11204.0,Formateur de la réparation de téléphones et tablettes,مكون إصلاح الهواتف والأجهزة اللوحية
+11205.0,Concepteur de programmes,مصمم برمجيات
+11206.0,Consultant industriel en machines hydrocarbure et énergie,استشاري صناعي في الآلات البترولية والطاقة
+11207.0,Consultant formateur en colorimétrie et techniques d'impression,مدرب استشاري في قياس الألوان وتقنيات الطباعة
+11208.0,Consultant en chimie industrielle,استشاري كيمياء صناعية
+11300.0,Services de Santé et Bien-être,خدمات الصحة والعناية
+11301.0,Formateur en lutte anti-nuisible (dératisation -désinsectisation -désinfection ...),مدرب في مكافحة الآفات الحشرية والقوارض والتعقيم
+11302.0,Formatrice en esthétique,مكونة في التجميل
+11303.0,Conseiller en nutrition et diététique,مستشار تغدية وحمية
+20200.0,Design et création numérique,التصميم والإبداع الرقمي
+20211.0,Designer de marques,مصمم علامات تجارية
+20212.0,Spécialiste de modélisation,أخصائي في النمدجة
+20300.0,Marketing numérique,التسويق الرقمي
+20313.0,Manager de créateurs de contenu ou marketeurs numériques,مدير أعمال صانع المحتوى أو المسوق الرقمي
+21100.0,Services relatifs à l'E-commerce,الخدمات المتعلقة بالتجارة الالكترونية
+21111.0,Formateur en E-commerce,مكون في التجارة الإلكترونية
+21500.0,Études et développement de réseaux de télécoms,دراسات وتطوير شبكات الاتصالات
+21525.0,Cartographe marin,رسام خرائط بحرية
+21700.0,Gestion et exploitation de systèmes d'information,تسيير وتشغيل الانظمة المعلوماتية
+21713.0,Gestionnaire de Stock,مسير المخزون
+21714.0,Chargé de la Gestion électronique des dossiers,مسؤول التسيير الإلكتروني للملفات
+21900.0,Activités connexes,أنشطة ذات صلة
+21912.0,Livreur de colis avec véhicule en intra-wilaya,سائق توصيل الطرود بالسيارة داخل الولاية
+21913.0,Designer de bijoux par logiciels,مصمم مجوهرات عن طريق البرمجيات
+21914.0,Correcteur/relecteur linguistique,مصحح ومدقق لغوي
+30200.0,Aide à domicile pour les personnes âgées ou handicapées,المساعدة المنزلية لكبار السن أو المعاقين
+30207.0,Garde malade,مساعد الرعاية الصحية
+30208.0,Interprète en langue des signes,مترجم لغة الإشارة
+30400.0,Préparation de repas à domicile,تحضير الوجبات في المنزل
+30404.0,Pâtissier à domicile,صانع حلويات منزلي
+30500.0,Aide aux devoirs et soutien scolaire à domicile,المساعدة في الواجبات المنزلية والدعم الأكاديمي في المنزل
+30504.0,Professionnel d’enseignement spécialisé,مدرس تعليم متخصص
+30700.0,Services de jardinage et d'entretien paysager,خدمات البستنة وصيانة الحدائق
+30703.0,Décorateur Fleuriste,مصمم ديكور زهور
+30900.0,Services de Confort et de Soins à Domicile,خدمات الرعاية والراحة المنزلية
+30901.0,Styliste,مصمم أزياء
+30902.0,Esthéticienne à domicile,أخصائي(ة) تجميل في المنزل
+30903.0,Coiffeur(se) à domicile,حلاق (ة ) في المنزل
+30904.0,Ongleriste à domicile,أخصائي(ة)  تجميل الأظافر في المنزل
+31000.0,Services animaliers domestiques,خدمات خاصة بالحيوانات الأليفة
+31001.0,Dresseur de chiens,مدرب كلاب
+31002.0,Garde animaux domestiques,مختص في رعاية الحيوانات الأليفة
+40300.0,Assistance maison,المساعدة المنزلية
+40301.0,Installateur et réparateur des stores et volets roulants,مركب و مصلح الستائر والستائر المتدحرجة
+40302.0,"Agent de Nettoyage, entretien et désinfection",عامل التنظيف والصيانة والتطهير
+40303.0,Agent de déménagement et de montage,عامل نقل و تركيب الأثاث و العدات
+40304.0,Designer d'intérieur,مصمم داخلي
+50200.0,Conception de contenus multimédias,تصميم محتوى الوسائط المتعددة
+50208.0,Concepteur de bandes dessinées,مصمم قصص مصورة
+50300.0,Activités de loisirs,أنشطة ترفيهية
+50301.0,Conseiller en hôtellerie et tourisme.,مستشار في الفندقة والسياحة
+50302.0,Opérateur de salle de jeux vidéo,مشغل صالة ألعاب الفيديو
+50303.0,Coach vocal,مدرب صوت
+60600.0,Design industriel,التصميم الصناعي
+60605.0,Designer d'éclairage,مصمم إضاءة
+60606.0,Styliste Modéliste de chaussures,مصمم أحذية
+60700.0,Hygiène Sécurité Environnement-HSE industriels,النظافة، السلامة والمحيط الصناعي
+60706.0,Agent de nettoyage des façades vitrées,عون تنظيف واجهات زجاجية
+60707.0,Agent de nettoyage industriel,عون تنظيف صناعي
+60708.0,Agent de collecte et tri des déchets,عامل تجميع وفرز النفايات
+61000.0,Gestion de production Industrielle,تسيير الإنتاج الصناعي
+61004.0,Operateur de Sériographie,مشغل آلات طباعة السريغرافيا
+61700.0,"Conduite d’installation de production électrique, électronique",قيادة تركيب الإنتاج الكهربائي والإلكتروني
+61710.0,Opérateur de machine CNC,مشغل آلات CNC
+63400.0,Installation et maintenance réseau télécoms et courants faibles,تركيب وصيانة شبكة الاتصالات والتيارات المنخفضة
+63431.0,Piqueteur en fibre otique,مُعَيِّن مَسَار الألياف البصرية
+63432.0,Technicien en fibre optique,تقني ألياف  بصرية
+63600.0,Maintenance électrique,الصيانة الكهربائية
+63611.0,Installation et maintenance de systèmes d'énergie solaire,تركيب وصيانة أنظمة الطاقة الشمسية
+63800.0,Services Techniques et Industriels,الخدمات التقنية والصناعية
+63801.0,Superviseur de chantier,مشرف موقع البناء
+63802.0,Consultant en inspection et intégrité des installations industrielles,استشاري فحص وسلامة المنشآت الصناعية
+63803.0,Consultant de Contrôle et inspection CND,استشاري مراقبة وفحص CND
+63804.0,"Consultant en relevé du bâti (Photogrammétrie, Lasergrametrie / Modélisation BIM)",استشاري مسح المباني (القياس التصويري، القياس بالليزر / نمذجة معلومات المباني)
+63805.0,Ingénieur en fiabilité,مهندس موثوقية
+63806.0,Conducteur d'engins de travaux publics,مشغل آلات الأشغال العمومية
+63807.0,Mécanicien maritime,ميكانيكي بحري
+63808.0,Ingénieur Systèmes Embarqués,مهندس أنظمة مدمجة
+70200.0,"Production spectacle, cinéma et audiovisuelle",إنتاج العروض، السينما والسمعي البصري
+70236.0,Data manager loisirs (DIT),مسير بيانات الترفيه
+70400.0,Réalisation cinématographique et audiovisuelle,الإخراج السينمائي والسمعي البصري
+70422.0,Réalisateur de dessins animés,مخرج رسوم متحركة
+70500.0,Promotion d'artistes,ترقية الفنانين
+70509.0,Découvreur de talents,مكتشف مواهب
+70700.0,Arts dramatiques et visuels,الفنون الدرامية والبصرية
+70714.0,Magicien /Illusionniste,ساحر/ لاعِب خِفة
+70900.0,Présentation de spectacles ou d'émissions,تقديم العروض او الحصص
+70911.0,Reporteur multimédia,مراسل وسائط متعددة
+71500.0,Image cinématographique et télévisuelle,الصورة السينمائية والتليفزيونية
+71527.0,Spécialiste en vidéo mapping / projection mapping,أخصائي تحجيم الفيديو / تخطيط الإسقاط
+71600.0,Prise de son et sonorisation,التقاط الصوت والبث الصوتي
+71616.0,Voix off,معلق الصوت الخلفي  (voice-over)
+71900.0,Réalisation de produits multimédias,إنجاز مواد إعلامية
+71909.0,Artiste en effets visuels,فنان مؤثرات بصرية
+71910.0,Styliste culinaire,مصمم طعام
+72300.0,Art et Patrimoine,فن وتراث
+72301.0,Artiste Plasticien,فنان تشكيلي
+72302.0,Artiste Sculpteur,فنان نحات
+72303.0,Artiste Céramiste,فنان خزفي
+72304.0,Artiste Graphiste,فنان جرافيك
+72305.0,Artiste Infographiste,فنان إنفوغرافي
+72306.0,Artiste Graveur,فنان نقاش
+72307.0,Artiste Miniaturiste,فنان مصغر
+72308.0,Artiste Enlumineur,فنان اضاءة
+72309.0,Artiste Designeur,فنان مصمم
+72310.0,Artiste Vireur,فنان زجاجي
+72311.0,Artiste Calligraphe,فنان خطاط
+72312.0,Animateur de Galerie d’ART,منشط معرض فني
+72313.0,Chef de Galerie,مسؤول معرض
+72314.0,Artiste Scénographe,فنان سينوغراف
+72315.0,Artiste de Bande Dessinée,فنان القصص المصورة
+72316.0,Artiste Galeriste,فنان معرضي
+72317.0,Expert en arts,خبير فنون
+72318.0,Artiste de décoration intérieure,فنان ديكور داخلي
+72319.0,Artiste Styliste,فنان مصمم أزياء
+72320.0,Artiste Modéliste,فنان موضة
+72321.0,Artiste Photographe,فنان مصور
+72322.0,Artiste Dessinateur,فنان رسام
+72323.0,Réparateur d’instruments musicaux,مصلح آلات موسيقية
+72324.0,Restaurateur d’œuvres artistiques,مرمم التحف الفنية
