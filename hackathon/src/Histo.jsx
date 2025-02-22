@@ -1,16 +1,10 @@
 import React, { useState } from 'react';
+import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell } from 'recharts';
 import { 
-  Calendar, 
   Filter, 
-  Home,
   Upload as UploadIcon, 
-  History,
-  BarChart,
-  Settings,
-  Search,
   FileText,
   Download,
-  Ban,
   CheckCircle,
   XCircle,
   HelpCircle
@@ -19,7 +13,7 @@ import {
 const FilterHubHistory = () => {
   const [selectedFile, setSelectedFile] = useState(null);
   const [processingComplete, setProcessingComplete] = useState(false);
-  
+
   const historyData = [
     {
       uploadDate: 'May 15, 2025',
@@ -71,23 +65,22 @@ const FilterHubHistory = () => {
         return 'bg-gray-100 text-gray-500';
     }
   };
-  
+
   const handleFileChange = (event) => {
     if (event.target.files.length > 0) {
       setSelectedFile(event.target.files[0]);
       setProcessingComplete(false);
     }
   };
-  
+
   const handleProcessFile = () => {
     if (selectedFile) {
-      // Simulate processing delay
       setTimeout(() => {
         setProcessingComplete(true);
       }, 1000);
     }
   };
-  
+
   const ResultFileCard = ({ title, icon, color, count, description, fileName, fileSize }) => (
     <div className={`bg-white p-6 rounded-xl shadow-sm border-l-4 ${color} flex flex-col h-full`}>
       <div className="flex items-center gap-3 mb-4">
@@ -115,6 +108,12 @@ const FilterHubHistory = () => {
     </div>
   );
 
+  const chartData = [
+    { name: 'Accepted', count: 186, color: '#22c55e' },
+    { name: 'Rejected', count: 42, color: '#ef4444' },
+    { name: 'Proposed', count: 78, color: '#eab308' }
+  ];
+
   return (
     <div className="flex min-h-screen bg-gray-50">
       {/* Sidebar */}
@@ -129,10 +128,6 @@ const FilterHubHistory = () => {
           </div>
         </div>
 
-        
-         
-          
-
         <div className="absolute bottom-0 w-full p-4 text-center text-sm text-gray-500 border-t border-gray-200">
           Filter Hub v1.0.0
         </div>
@@ -142,7 +137,6 @@ const FilterHubHistory = () => {
       <div className="ml-64 flex-1 p-8">
         <div className="flex justify-between items-center mb-8">
           <h1 className="text-2xl font-bold">File Upload</h1>
-          
         </div>
 
         {/* File Upload Section */}
@@ -193,57 +187,99 @@ const FilterHubHistory = () => {
                   : 'bg-gray-200 text-gray-500 cursor-not-allowed'
               }`}
             >
-              show result
+              Show Result
             </button>
           </div>
         </div>
 
         {/* Processing Results */}
         {processingComplete && (
-          <div className="mb-8">
-            <div className="flex items-center gap-3 mb-6">
-              <FileText className="w-5 h-5 text-orange-500" />
-              <h2 className="text-lg font-semibold">Processing Results</h2>
+          <>
+            <div className="mb-8">
+              <div className="flex items-center gap-3 mb-6">
+                <FileText className="w-5 h-5 text-orange-500" />
+                <h2 className="text-lg font-semibold">Processing Results</h2>
+              </div>
+
+              <div className="grid grid-cols-3 gap-6">
+                <ResultFileCard
+                  title="Accepted Records"
+                  icon={<CheckCircle className="w-5 h-5 text-green-500" />}
+                  color="border-green-500"
+                  count="186"
+                  description="Records that passed all validation checks"
+                  fileName="accepted_records.csv"
+                  fileSize="1.2 MB"
+                />
+                <ResultFileCard
+                  title="Rejected Records"
+                  icon={<XCircle className="w-5 h-5 text-red-500" />}
+                  color="border-red-500"
+                  count="42"
+                  description="Records that failed validation checks"
+                  fileName="rejected_records.csv"
+                  fileSize="0.4 MB"
+                />
+                <ResultFileCard
+                  title="Proposed Changes"
+                  icon={<HelpCircle className="w-5 h-5 text-yellow-500" />}
+                  color="border-yellow-500"
+                  count="78"
+                  description="Records with suggested modifications"
+                  fileName="proposed_changes.csv"
+                  fileSize="0.8 MB"
+                />
+              </div>
             </div>
 
-            <div className="grid grid-cols-3 gap-6">
-              {/* Accepted Records */}
-              <ResultFileCard
-                title="Accepted Records"
-                icon={<CheckCircle className="w-5 h-5 text-green-500" />}
-                color="border-green-500"
-                count="186"
-                description="Records that passed all validation checks"
-                fileName="accepted_records.csv"
-                fileSize="1.2 MB"
-              />
+            {/* Results Distribution Chart */}
+            <div className="bg-white p-6 rounded-xl shadow-sm mb-8">
+              <div className="flex items-center gap-3 mb-6">
+                <FileText className="w-5 h-5 text-orange-500" />
+                <h2 className="text-lg font-semibold">Results Distribution</h2>
+              </div>
               
-              {/* Rejected Records */}
-              <ResultFileCard
-                title="Rejected Records"
-                icon={<XCircle className="w-5 h-5 text-red-500" />}
-                color="border-red-500"
-                count="42"
-                description="Records that failed validation checks"
-                fileName="rejected_records.csv"
-                fileSize="0.4 MB"
-              />
+              <div className="h-64">
+                <ResponsiveContainer width="100%" height="100%">
+                  <BarChart data={chartData}>
+                    <CartesianGrid strokeDasharray="3 3" />
+                    <XAxis dataKey="name" />
+                    <YAxis />
+                    <Tooltip
+                      content={({ active, payload }) => {
+                        if (active && payload && payload.length) {
+                          const data = payload[0].payload;
+                          return (
+                            <div className="bg-white p-2 shadow-lg rounded border">
+                              <div className="font-semibold">{data.name} Records</div>
+                              <div className="text-gray-600">{data.count} items</div>
+                            </div>
+                          );
+                        }
+                        return null;
+                      }}
+                    />
+                    <Bar dataKey="count">
+                      {chartData.map((entry, index) => (
+                        <Cell key={`cell-${index}`} fill={entry.color} />
+                      ))}
+                    </Bar>
+                  </BarChart>
+                </ResponsiveContainer>
+              </div>
               
-              {/* Proposed Changes */}
-              <ResultFileCard
-                title="Proposed Changes"
-                icon={<HelpCircle className="w-5 h-5 text-yellow-500" />}
-                color="border-yellow-500"
-                count="78"
-                description="Records with suggested modifications"
-                fileName="proposed_changes.csv"
-                fileSize="0.8 MB"
-              />
+
+              <div className="flex justify-center gap-6 mt-4">
+                {chartData.map((item, index) => (
+                  <div key={index} className="flex items-center gap-2">
+                    <div className="w-4 h-4 rounded-full" style={{ backgroundColor: item.color }} />
+                    <span className="text-sm text-gray-600">{item.name}</span>
+                  </div>
+                ))}
+              </div>
             </div>
-          </div>
+          </>
         )}
-
-        
       </div>
     </div>
   );

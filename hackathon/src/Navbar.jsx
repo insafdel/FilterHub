@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
-import { Home, History, Filter, Sun, Moon } from "lucide-react";
+import { Home,Upload, History, Filter, Sun, Moon } from "lucide-react";
 
 const Navbar = () => {
   const [activeMenu, setActiveMenu] = useState("dashboard");
@@ -20,7 +20,7 @@ const Navbar = () => {
   // Nav items with paths for React Router
   const menuItems = [
     { icon: Home, label: "Dashboard", id: "dashboard", path: "/dashboard" },
-    { icon: History, label: "Result", id: "results", path: "/results" },
+    { icon: Upload, label: "Result", id: "results", path: "/results" },
   ];
 
   const handleClick = (id, path) => {

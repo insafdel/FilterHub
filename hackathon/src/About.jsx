@@ -40,7 +40,7 @@ const About = () => {
   const [uploadedFiles, setUploadedFiles] = useState([
     { id: 1, name: 'business_data_2024.csv', size: '3.2 MB', progress: 100, status: 'success' },
     { id: 2, name: 'registration_batch_feb.csv', size: '1.8 MB', progress: 100, status: 'success' },
-    { id: 3, name: 'activities_list.csv', size: '0.7 MB', progress: 30, status: 'uploading' }
+    
   ]);
 
   // Create a ref for the "Upload your CSV" section
@@ -49,7 +49,10 @@ const About = () => {
   // Function to scroll to the upload section
   const scrollToUploadSection = () => {
     if (uploadSectionRef.current) {
-      uploadSectionRef.current.scrollIntoView({ behavior: 'smooth' });
+      uploadSectionRef.current.scrollIntoView({ 
+        behavior: 'smooth', 
+        block: 'center' // Ensures the section is centered in the viewport
+      });
     }
   };
 
@@ -104,7 +107,7 @@ const About = () => {
         <motion.div 
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          className="relative bg-gradient-to-r bg-gray-900 to-indigo-900 text-white text-center py-20 px-6"
+          className="relative bg-gradient-to-r bg-gray-50 to-indigo-900 text-gray text-center py-20 px-6 dark:bg-gray-900"
         >
           {/* Particles */}
           <div className="absolute inset-0 overflow-hidden">
@@ -135,8 +138,8 @@ const About = () => {
               transition={{ delay: 0.2 }}
               className="text-4xl md:text-5xl font-bold mb-4"
             >
-              <span className="text-white">Welcome to </span>
-              <span className="text-yellow-500">Filter Hub</span>
+              <span className="text-fray dark:text-white">Welcome to </span>
+              <span className="text-yellow-500 ">Filter Hub</span>
             </motion.h1>
 
             <motion.div
@@ -145,7 +148,7 @@ const About = () => {
               transition={{ delay: 0.4 }}
               className="space-y-6"
             >
-              <p className="text-lg opacity-80 max-w-2xl mx-auto">
+              <p className="text-lg opacity-80 max-w-2xl mx-auto dark:text-white">
                 Transform your business registration process with our AI-powered data filtering system.
                 Eliminate redundancies, categorize activities, and classify documents automatically.
               </p>
@@ -173,7 +176,7 @@ const About = () => {
     <div className="relative flex flex-col md:flex-row items-center justify-between mt-10">
       {/* Step 1: Upload Files */}
       <div className="relative z-10 flex flex-col items-center text-center w-full md:w-1/4 px-4 mb-8 md:mb-0">
-        <div className="w-16 h-16 flex items-center justify-center rounded-full bg-white dark:bg-gray-800 border-2 border-orange-500 text-orange-500 mb-4 shadow"> {/* Dark mode circle background */}
+        <div className="w-16 h-16 flex items-center justify-center rounded-full bg-white dark:bg-gray-800 border-2 border-yellow-500 text-yellow-500 mb-4 shadow"> {/* Dark mode circle background */}
           <Upload className="text-2xl" /> {/* Icon */}
         </div>
         <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-2"> {/* Dark mode text color */}
@@ -186,7 +189,7 @@ const About = () => {
 
       {/* Step 2: AI Processing */}
       <div className="relative z-10 flex flex-col items-center text-center w-full md:w-1/4 px-4 mb-8 md:mb-0">
-        <div className="w-16 h-16 flex items-center justify-center rounded-full bg-white dark:bg-gray-800 border-2 border-orange-500 text-orange-500 mb-4 shadow"> {/* Dark mode circle background */}
+        <div className="w-16 h-16 flex items-center justify-center rounded-full bg-white dark:bg-gray-800 border-2 border-red-500 text-red-500 mb-4 shadow"> {/* Dark mode circle background */}
           <Bot className="text-2xl" /> {/* Icon */}
         </div>
         <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-2"> {/* Dark mode text color */}
@@ -212,7 +215,7 @@ const About = () => {
 
       {/* Step 4: Export Clean Data */}
       <div className="relative z-10 flex flex-col items-center text-center w-full md:w-1/4 px-4">
-        <div className="w-16 h-16 flex items-center justify-center rounded-full bg-white dark:bg-gray-800 border-2 border-orange-500 text-orange-500 mb-4 shadow"> {/* Dark mode circle background */}
+        <div className="w-16 h-16 flex items-center justify-center rounded-full bg-white dark:bg-gray-800 border-2 border-green-500 text-green-500 mb-4 shadow"> {/* Dark mode circle background */}
           <History className="text-2xl" /> {/* Icon */}
         </div>
         <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-2"> {/* Dark mode text color */}
@@ -239,8 +242,10 @@ const About = () => {
             </div>
 
             <motion.label
+            ref={uploadSectionRef}
               whileHover={{ scale: 1.01 }}
               className="block border-2 border-dashed border-gray-300 dark:border-gray-600 rounded-xl p-10 text-center cursor-pointer"
+            
             >
               <input
                 type="file"
